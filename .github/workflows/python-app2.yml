@@ -12,7 +12,11 @@ jobs:
         steps:
           - uses: actions/checkout@v2
             with:
-              token: ${{ secrets.GH_ACCESS_TOKEN }}
+              token: ${{ secrets.GH_ACCESS_TOKEN }} 
+              # Optional commit user and author settings
+              commit_user_name: ManuekBanza # defaults to "github-actions[bot]"
+              commit_user_email: manuelbanza@hotmail.com # defaults to "github-actions[bot]@users.noreply.github.com"
+    
           - name: Configure pt_PT locale
             run: |
               apt-get update -y && apt-get install -y locales && echo "pt_PT.UTF-8 UTF-8" | tee -a /etc/locale.gen && locale-gen pt_PT.UTF-8
