@@ -1,0 +1,215 @@
+﻿Date,From,To,Flight_Number,Airline,Distance,Duration,Seat,Seat_Type,Class,Reason,Plane,Registration,Trip,Note,From_OID,To_OID,Airline_OID,Plane_OID
+- -,LIS,ACC,TAP Portugal (TP),TAP Portugal,2358,05:12,,,,,320,,,"Direct",1638,248,4869
+- -,LIS,AGP,Etihad Airways (EY),Etihad Airways,291,01:04,,,,,BE1,,,"Codeshare",1638,1230,2222
+- -,LIS,AGP,SATA International (S4),SATA International,291,01:04,,,,,BEH,,,"Codeshare",1638,1230,4304
+- -,LIS,AGP,TAP Portugal (TP),TAP Portugal,291,01:04,,,,,BEH,,,"Codeshare",1638,1230,4869
+- -,LIS,ALG,Air Algerie (AH),Air Algerie,689,01:52,,,,,736,,,"Direct",1638,210,794
+- -,LIS,ALG,TAP Portugal (TP),TAP Portugal,689,01:52,,,,,100 ER4,,,"Codeshare",1638,210,4869
+- -,LIS,AMS,Finnair (AY),Finnair,1146,02:47,,,,,320 319,,,"Codeshare",1638,580,2350
+- -,LIS,AMS,Etihad Airways (EY),Etihad Airways,1146,02:47,,,,,32S,,,"Direct",1638,580,2222
+- -,LIS,AMS,Transavia Holland (HV),Transavia Holland,1146,02:47,,,,,73H 73W,,,"Direct",1638,580,5039
+- -,LIS,AMS,KLM Royal Dutch Airlines (KL),KLM Royal Dutch Airlines,1146,02:47,,,,,737,,,"Direct",1638,580,3090
+- -,LIS,AMS,SATA International (S4),SATA International,1146,02:47,,,,,319,,,"Codeshare",1638,580,4304
+- -,LIS,AMS,TAP Portugal (TP),TAP Portugal,1146,02:47,,,,,320 319,,,"Direct",1638,580,4869
+- -,LIS,AMS,easyJet (U2),easyJet,1146,02:47,,,,,319,,,"Direct",1638,580,2297
+- -,LIS,AMS,US Airways (US),US Airways,1146,02:47,,,,,320 319,,,"Codeshare",1638,580,5265
+- -,LIS,ARN,SATA International (S4),SATA International,1862,04:13,,,,,320,,,"Codeshare",1638,737,4304
+- -,LIS,ARN,TAP Portugal (TP),TAP Portugal,1862,04:13,,,,,320,,,"Direct",1638,737,4869
+- -,LIS,BCN,Iberia Airlines (IB),Iberia Airlines,617,01:44,,,,,320,,,"Codeshare",1638,1218,2822
+- -,LIS,BCN,SATA International (S4),SATA International,617,01:44,,,,,ER4 319 100,,,"Codeshare",1638,1218,4304
+- -,LIS,BCN,TAP Portugal (TP),TAP Portugal,617,01:44,,,,,320 ER4 319 100,,,"Direct",1638,1218,4869
+- -,LIS,BCN,Formosa Airlines (VY),Formosa Airlines,617,01:44,,,,,320,,,"Direct",1638,1218,2439
+- -,LIS,BIO,SATA International (S4),SATA International,449,01:23,,,,,ER4 100,,,"Codeshare",1638,1216,4304
+- -,LIS,BIO,TAP Portugal (TP),TAP Portugal,449,01:23,,,,,ER4 100,,,"Codeshare",1638,1216,4869
+- -,LIS,BIO,easyJet (U2),easyJet,449,01:23,,,,,319,,,"Direct",1638,1216,2297
+- -,LIS,BKO,TAP Portugal (TP),TAP Portugal,1813,04:07,,,,,319 320,,,"Direct",1638,1044,4869
+- -,LIS,BLQ,Alitalia (AZ),Alitalia,1122,02:44,,,,,319 320,,,"Codeshare",1638,1538,596
+- -,LIS,BLQ,Croatia Airlines (OU),Croatia Airlines,1122,02:44,,,,,319,,,"Codeshare",1638,1538,1925
+- -,LIS,BLQ,TAP Portugal (TP),TAP Portugal,1122,02:44,,,,,319 320,,,"Direct",1638,1538,4869
+- -,LIS,BOD,TAP Portugal (TP),TAP Portugal,601,01:42,,,,,100 ER4,,,"Codeshare",1638,1264,4869
+- -,LIS,BOD,easyJet (U2),easyJet,601,01:42,,,,,319,,,"Direct",1638,1264,2297
+- -,LIS,BOS,SATA International (S4),SATA International,3182,06:51,,,,,313,,,"Direct",1638,3448,4304
+- -,LIS,BOS,TAP Portugal (TP),TAP Portugal,3182,06:51,,,,,313,,,"Codeshare",1638,3448,4869
+- -,LIS,BRS,easyJet (U2),easyJet,923,02:20,,,,,320,,,"Direct",1638,490,2297
+- -,LIS,BRU,Finnair (AY),Finnair,1066,02:37,,,,,321 320 100 319,,,"Codeshare",1638,302,2350
+- -,LIS,BRU,Ryanair (FR),Ryanair,1066,02:37,,,,,738,,,"Direct",1638,302,4296
+- -,LIS,BRU,Iberia Airlines (IB),Iberia Airlines,1066,02:37,,,,,320,,,"Direct",1638,302,2822
+- -,LIS,BRU,Brussels Airlines (SN),Brussels Airlines,1066,02:37,,,,,320 319,,,"Direct",1638,302,1531
+- -,LIS,BRU,Thai Airways International (TG),Thai Airways International,1066,02:37,,,,,320 321,,,"Direct",1638,302,4940
+- -,LIS,BRU,TAP Portugal (TP),TAP Portugal,1066,02:37,,,,,321 320 319 100,,,"Direct",1638,302,4869
+- -,LIS,BRU,US Airways (US),US Airways,1066,02:37,,,,,321 320 100 319,,,"Codeshare",1638,302,5265
+- -,LIS,BRU,Formosa Airlines (VY),Formosa Airlines,1066,02:37,,,,,320,,,"Direct",1638,302,2439
+- -,LIS,BSB,TAP Portugal (TP),TAP Portugal,4529,09:33,,,,,332,,,"Direct",1638,2531,4869
+- -,LIS,BSL,easyJet (U2),easyJet,1032,02:33,,,,,319,,,"Direct",1638,1423,2297
+- -,LIS,BUD,TAP Portugal (TP),TAP Portugal,1540,03:34,,,,,320 321 319,,,"Direct",1638,1489,4869
+- -,LIS,BVA,Ryanair (FR),Ryanair,922,02:20,,,,,738,,,"Direct",1638,1367,4296
+- -,LIS,BVC,TAP Portugal (TP),TAP Portugal,1771,04:02,,,,,320,,,"Direct",1638,1103,4869
+- -,LIS,BVC,TACV (VR),TACV,1771,04:02,,,,,738,,,"Direct",1638,1103,5041
+- -,LIS,CCS,TAP Portugal (TP),TAP Portugal,4037,08:34,,,,,332,,,"Direct",1638,2851,4869
+- -,LIS,CDG,Air France (AF),Air France,912,02:19,,,,,319 318 320 321,,,"Direct",1638,1382,137
+- -,LIS,CDG,Alitalia (AZ),Alitalia,912,02:19,,,,,319 318 320 321,,,"Codeshare",1638,1382,596
+- -,LIS,CDG,easyJet (U2),easyJet,912,02:19,,,,,319,,,"Direct",1638,1382,2297
+- -,LIS,CGN,Germanwings (4U),Germanwings,1149,02:47,,,,,319 320,,,"Direct",1638,344,2548
+- -,LIS,CMN,Royal Air Maroc (AT),Royal Air Maroc,383,01:15,,,,,738 AT7,,,"Direct",1638,1074,4248
+- -,LIS,CMN,TAP Portugal (TP),TAP Portugal,383,01:15,,,,,100 319 ER4 BEH,,,"Codeshare",1638,1074,4869
+- -,LIS,CNF,TAP Portugal (TP),TAP Portugal,4619,09:44,,,,,332 343,,,"Direct",1638,2537,4869
+- -,LIS,CPH,Norwegian Air Shuttle (DY),Norwegian Air Shuttle,1535,03:34,,,,,73H,,,"Direct",1638,609,3737
+- -,LIS,CPH,SATA International (S4),SATA International,1535,03:34,,,,,320,,,"Codeshare",1638,609,4304
+- -,LIS,CPH,TAP Portugal (TP),TAP Portugal,1535,03:34,,,,,321 320,,,"Direct",1638,609,4869
+- -,LIS,DKR,TAP Portugal (TP),TAP Portugal,1736,03:58,,,,,321,,,"Direct",1638,1084,4869
+- -,LIS,DLE,Ryanair (FR),Ryanair,929,02:21,,,,,738,,,"Direct",1638,1309,4296
+- -,LIS,DME,S7 Airlines (S7),S7 Airlines,2430,05:21,,,,,320,,,"Codeshare",1638,4029,4329
+- -,LIS,DME,TAP Portugal (TP),TAP Portugal,2430,05:21,,,,,320,,,"Direct",1638,4029,4869
+- -,LIS,DUB,Aer Lingus (EI),Aer Lingus,1020,02:32,,,,,320,,,"Direct",1638,599,837
+- -,LIS,DUB,Ryanair (FR),Ryanair,1020,02:32,,,,,738,,,"Direct",1638,599,4296
+- -,LIS,DUS,TAP Portugal (TP),TAP Portugal,1156,02:48,,,,,319 320,,,"Direct",1638,345,4869
+- -,LIS,DXB,Emirates (EK),Emirates,3811,08:07,,,,,77W,,,"Direct",1638,2188,2183
+- -,LIS,DXB,TAP Portugal (TP),TAP Portugal,3811,08:07,,,,,77W,,,"Codeshare",1638,2188,4869
+- -,LIS,EDI,easyJet (U2),easyJet,1214,02:55,,,,,319 320,,,"Direct",1638,535,2297
+- -,LIS,EIN,Transavia Holland (HV),Transavia Holland,1120,02:44,,,,,73H 73W,,,"Direct",1638,585,5039
+- -,LIS,EWR,TAP Portugal (TP),TAP Portugal,3374,07:14,,,,,343 332,,,"Direct",1638,3494,4869
+- -,LIS,EWR,United Airlines (UA),United Airlines,3374,07:14,,,,,752,,,"Direct",1638,3494,5209
+- -,LIS,EWR,US Airways (US),US Airways,3374,07:14,,,,,343 332,,,"Codeshare",1638,3494,5265
+- -,LIS,FAO,Ryanair (FR),Ryanair,137,00:46,,,,,738,,,"Direct",1638,1626,4296
+- -,LIS,FAO,SATA International (S4),SATA International,137,00:46,,,,,319 320 ER4,,,"Codeshare",1638,1626,4304
+- -,LIS,FAO,TAP Portugal (TP),TAP Portugal,137,00:46,,,,,319 320 ER4,,,"Direct",1638,1626,4869
+- -,LIS,FAO,US Airways (US),US Airways,137,00:46,,,,,319 320,,,"Codeshare",1638,1626,5265
+- -,LIS,FCO,Alitalia (AZ),Alitalia,1141,02:46,,,,,321 319 320,,,"Codeshare",1638,1555,596
+- -,LIS,FCO,TAP Portugal (TP),TAP Portugal,1141,02:46,,,,,321 319 320,,,"Direct",1638,1555,4869
+- -,LIS,FNC,SATA International (S4),SATA International,599,01:41,,,,,319 320 100 321,,,"Codeshare",1638,4091,4304
+- -,LIS,FNC,TAP Portugal (TP),TAP Portugal,599,01:41,,,,,319 320 100 321 332,,,"Direct",1638,4091,4869
+- -,LIS,FNC,easyJet (U2),easyJet,599,01:41,,,,,319,,,"Direct",1638,4091,2297
+- -,LIS,FNC,US Airways (US),US Airways,599,01:41,,,,,319,,,"Codeshare",1638,4091,5265
+- -,LIS,FOR,TAP Portugal (TP),TAP Portugal,3485,07:28,,,,,332,,,"Direct",1638,2559,4869
+- -,LIS,FRA,Ethiopian Airlines (ET),Ethiopian Airlines,1163,02:49,,,,,321,,,"Codeshare",1638,340,2220
+- -,LIS,FRA,Lufthansa (LH),Lufthansa,1163,02:49,,,,,321 32A,,,"Direct",1638,340,3320
+- -,LIS,FRA,SATA International (S4),SATA International,1163,02:49,,,,,319 321,,,"Codeshare",1638,340,4304
+- -,LIS,FRA,TAP Portugal (TP),TAP Portugal,1163,02:49,,,,,319 321 320,,,"Direct",1638,340,4869
+- -,LIS,GIG,TAP Portugal (TP),TAP Portugal,4791,10:04,,,,,332 343,,,"Direct",1638,2560,4869
+- -,LIS,GRU,TAP Portugal (TP),TAP Portugal,4927,10:21,,,,,343 332,,,"Direct",1638,2564,4869
+- -,LIS,GVA,Finnair (AY),Finnair,928,02:21,,,,,320 321,,,"Codeshare",1638,1665,2350
+- -,LIS,GVA,Swiss International Air Lines (LX),Swiss International Air Lines,928,02:21,,,,,319 320,,,"Direct",1638,1665,4559
+- -,LIS,GVA,TAP Portugal (TP),TAP Portugal,928,02:21,,,,,319 320 321,,,"Direct",1638,1665,4869
+- -,LIS,GVA,easyJet (U2),easyJet,928,02:21,,,,,320 319,,,"Direct",1638,1665,2297
+- -,LIS,HAM,Lufthansa (LH),Lufthansa,1364,03:13,,,,,319 320 321,,,"Codeshare",1638,342,3320
+- -,LIS,HAM,TAP Portugal (TP),TAP Portugal,1364,03:13,,,,,319 320 321,,,"Direct",1638,342,4869
+- -,LIS,HEL,Finnair (AY),Finnair,2089,04:40,,,,,320,,,"Codeshare",1638,421,2350
+- -,LIS,HEL,TAP Portugal (TP),TAP Portugal,2089,04:40,,,,,320,,,"Direct",1638,421,4869
+- -,LIS,HHN,Ryanair (FR),Ryanair,1113,02:43,,,,,738,,,"Direct",1638,355,4296
+- -,LIS,HOR,SATA International (S4),SATA International,1054,02:36,,,,,320,,,"Direct",1638,1628,4304
+- -,LIS,HOR,TAP Portugal (TP),TAP Portugal,1054,02:36,,,,,319 320,,,"Direct",1638,1628,4869
+- -,LIS,ISL,Turkish Airlines (TK),Turkish Airlines,2000,04:30,,,,,321 738,,,"Direct",1638,1701,4951
+- -,LIS,ISL,TAP Portugal (TP),TAP Portugal,2000,04:30,,,,,321,,,"Direct",1638,1701,4869
+- -,LIS,KBP,Ukraine International Airlines (PS),Ukraine International Airlines,2094,04:41,,,,,738,,,"Direct",1638,2939,5282
+- -,LIS,KBP,TAP Portugal (TP),TAP Portugal,2094,04:41,,,,,738,,,"Codeshare",1638,2939,4869
+- -,LIS,KIV,Air Moldova (9U),Air Moldova,1985,04:28,,,,,E90,,,"Direct",1638,1735,1073
+- -,LIS,LAD,TAAG Angola Airlines (DT),TAAG Angola Airlines,3589,07:40,,,,,77W,,,"Direct",1638,951,5133
+- -,LIS,LAD,TAP Portugal (TP),TAP Portugal,3589,07:40,,,,,343,,,"Direct",1638,951,4869
+- -,LIS,LCG,TAP Portugal (TP),TAP Portugal,314,01:07,,,,,BEH,,,"Codeshare",1638,1220,4869
+- -,LIS,LGW,SATA International (S4),SATA International,957,02:24,,,,,319,,,"Codeshare",1638,502,4304
+- -,LIS,LGW,TAP Portugal (TP),TAP Portugal,957,02:24,,,,,319 320,,,"Direct",1638,502,4869
+- -,LIS,LGW,easyJet (U2),easyJet,957,02:24,,,,,319 320,,,"Direct",1638,502,2297
+- -,LIS,LHR,American Airlines (AA),American Airlines,971,02:26,,,,,320,,,"Codeshare",1638,507,24
+- -,LIS,LHR,Finnair (AY),Finnair,971,02:26,,,,,320,,,"Codeshare",1638,507,2350
+- -,LIS,LHR,British Airways (BA),British Airways,971,02:26,,,,,320,,,"Direct",1638,507,1355
+- -,LIS,LHR,All Nippon Airways (NH),All Nippon Airways,971,02:26,,,,,320 321 319,,,"Codeshare",1638,507,324
+- -,LIS,LHR,SATA International (S4),SATA International,971,02:26,,,,,319 321,,,"Codeshare",1638,507,4304
+- -,LIS,LHR,TAP Portugal (TP),TAP Portugal,971,02:26,,,,,319 320 321,,,"Direct",1638,507,4869
+- -,LIS,LPA,Binter Canarias (NT),Binter Canarias,830,02:09,,,,,CR9,,,"Codeshare",1638,1054,1539
+- -,LIS,LPA,SATA International (S4),SATA International,830,02:09,,,,,CR9,,,"Direct",1638,1054,4304
+- -,LIS,LPL,easyJet (U2),easyJet,1048,02:35,,,,,319 320,,,"Direct",1638,491,2297
+- -,LIS,LTN,easyJet (U2),easyJet,997,02:29,,,,,319 320,,,"Direct",1638,492,2297
+- -,LIS,LUX,Luxair (LG),Luxair,1062,02:37,,,,,73W 73H,,,"Direct",1638,629,3329
+- -,LIS,LUX,TAP Portugal (TP),TAP Portugal,1062,02:37,,,,,319 320 100,,,"Direct",1638,629,4869
+- -,LIS,LUX,easyJet (U2),easyJet,1062,02:37,,,,,319,,,"Direct",1638,629,2297
+- -,LIS,LYS,TAP Portugal (TP),TAP Portugal,868,02:14,,,,,100 ER4,,,"Codeshare",1638,1335,4869
+- -,LIS,LYS,easyJet (U2),easyJet,868,02:14,,,,,319,,,"Direct",1638,1335,2297
+- -,LIS,MAD,Iberia Airlines (IB),Iberia Airlines,318,01:08,,,,,320 321 319,,,"Direct",1638,1229,2822
+- -,LIS,MAD,SATA International (S4),SATA International,318,01:08,,,,,319 ER4 100,,,"Codeshare",1638,1229,4304
+- -,LIS,MAD,TAP Portugal (TP),TAP Portugal,318,01:08,,,,,ER4 319 320 100,,,"Direct",1638,1229,4869
+- -,LIS,MAD,easyJet (U2),easyJet,318,01:08,,,,,319,,,"Direct",1638,1229,2297
+- -,LIS,MAD,US Airways (US),US Airways,318,01:08,,,,,ER4 100 319,,,"Codeshare",1638,1229,5265
+- -,LIS,MAD,Air Europa (UX),Air Europa,318,01:08,,,,,ER4,,,"Direct",1638,1229,90
+- -,LIS,MAN,Ryanair (FR),Ryanair,1057,02:36,,,,,738,,,"Direct",1638,478,4296
+- -,LIS,MAN,TAP Portugal (TP),TAP Portugal,1057,02:36,,,,,319 320,,,"Direct",1638,478,4869
+- -,LIS,MIA,TAP Portugal (TP),TAP Portugal,4146,08:47,,,,,332 343,,,"Direct",1638,3576,4869
+- -,LIS,MIA,United Airlines (UA),United Airlines,4146,08:47,,,,,332 343,,,"Codeshare",1638,3576,5209
+- -,LIS,MPM,TAP Portugal (TP),TAP Portugal,5216,10:55,,,,,332 343,,,"Direct",1638,979,4869
+- -,LIS,MRS,Ryanair (FR),Ryanair,811,02:07,,,,,738,,,"Direct",1638,1353,4296
+- -,LIS,MRS,TAP Portugal (TP),TAP Portugal,811,02:07,,,,,ER4 100,,,"Codeshare",1638,1353,4869
+- -,LIS,MUC,Lufthansa (LH),Lufthansa,1231,02:57,,,,,321,,,"Direct",1638,346,3320
+- -,LIS,MUC,TAP Portugal (TP),TAP Portugal,1231,02:57,,,,,320 319,,,"Direct",1638,346,4869
+- -,LIS,MXP,Alitalia (AZ),Alitalia,1025,02:33,,,,,320 319,,,"Direct",1638,1524,596
+- -,LIS,MXP,TAP Portugal (TP),TAP Portugal,1025,02:33,,,,,320 319 100,,,"Direct",1638,1524,4869
+- -,LIS,MXP,easyJet (U2),easyJet,1025,02:33,,,,,319 320,,,"Direct",1638,1524,2297
+- -,LIS,NAT,TAP Portugal (TP),TAP Portugal,3504,07:30,,,,,332,,,"Direct",1638,2597,4869
+- -,LIS,NCE,TAP Portugal (TP),TAP Portugal,911,02:19,,,,,ER4 100,,,"Codeshare",1638,1354,4869
+- -,LIS,NCE,easyJet (U2),easyJet,911,02:19,,,,,319,,,"Direct",1638,1354,2297
+- -,LIS,NTE,Transavia France (TO),Transavia France,691,01:52,,,,,73H,,,"Direct",1638,1418,8745
+- -,LIS,OPO,Ryanair (FR),Ryanair,172,00:50,,,,,738,,,"Direct",1638,1636,4296
+- -,LIS,OPO,SATA International (S4),SATA International,172,00:50,,,,,100 320 ER4 319,,,"Codeshare",1638,1636,4304
+- -,LIS,OPO,TAP Portugal (TP),TAP Portugal,172,00:50,,,,,100 320 ER4 319,,,"Direct",1638,1636,4869
+- -,LIS,OPO,US Airways (US),US Airways,172,00:50,,,,,ER4 100 319,,,"Codeshare",1638,1636,5265
+- -,LIS,ORK,Aer Lingus (EI),Aer Lingus,902,02:18,,,,,320,,,"Direct",1638,596,837
+- -,LIS,ORY,Iberia Airlines (IB),Iberia Airlines,893,02:17,,,,,320,,,"Codeshare",1638,1386,2822
+- -,LIS,ORY,Transavia France (TO),Transavia France,893,02:17,,,,,73H 320,,,"Direct",1638,1386,8745
+- -,LIS,ORY,TAP Portugal (TP),TAP Portugal,893,02:17,,,,,321 319 320 100,,,"Direct",1638,1386,4869
+- -,LIS,ORY,Formosa Airlines (VY),Formosa Airlines,893,02:17,,,,,320,,,"Direct",1638,1386,2439
+- -,LIS,ORY,Aigle Azur (ZI),Aigle Azur,893,02:17,,,,,319 320,,,"Direct",1638,1386,21
+- -,LIS,OSL,Norwegian Air Shuttle (DY),Norwegian Air Shuttle,1714,03:55,,,,,73H,,,"Direct",1638,644,3737
+- -,LIS,OSL,TAP Portugal (TP),TAP Portugal,1714,03:55,,,,,320,,,"Direct",1638,644,4869
+- -,LIS,OTP,TAP Portugal (TP),TAP Portugal,1844,04:11,,,,,319,,,"Direct",1638,1657,4869
+- -,LIS,PDL,SATA International (S4),SATA International,899,02:17,,,,,320 313,,,"Direct",1638,1633,4304
+- -,LIS,PDL,TAP Portugal (TP),TAP Portugal,899,02:17,,,,,320 319,,,"Direct",1638,1633,4869
+- -,LIS,PHL,American Airlines (AA),American Airlines,3447,07:23,,,,,757,,,"Direct",1638,3752,24
+- -,LIS,PHL,TAP Portugal (TP),TAP Portugal,3447,07:23,,,,,752,,,"Codeshare",1638,3752,4869
+- -,LIS,PHL,US Airways (US),US Airways,3447,07:23,,,,,752,,,"Direct",1638,3752,5265
+- -,LIS,PIX,SATA International (S4),SATA International,1039,02:34,,,,,320,,,"Codeshare",1638,1634,4304
+- -,LIS,PIX,TAP Portugal (TP),TAP Portugal,1039,02:34,,,,,320,,,"Direct",1638,1634,4869
+- -,LIS,POA,TAP Portugal (TP),TAP Portugal,5465,11:25,,,,,332,,,"Direct",1638,2599,4869
+- -,LIS,PRG,TAP Portugal (TP),TAP Portugal,1384,03:16,,,,,319 320,,,"Direct",1638,1587,4869
+- -,LIS,PSA,Ryanair (FR),Ryanair,1066,02:37,,,,,738,,,"Direct",1638,1562,4296
+- -,LIS,PXO,Etihad Airways (EY),Etihad Airways,563,01:37,,,,,100 32S,,,"Direct",1638,1637,2222
+- -,LIS,PXO,SATA International (S4),SATA International,563,01:37,,,,,100 319,,,"Codeshare",1638,1637,4304
+- -,LIS,PXO,TAP Portugal (TP),TAP Portugal,563,01:37,,,,,100 319,,,"Direct",1638,1637,4869
+- -,LIS,RAI,TAP Portugal (TP),TAP Portugal,1864,04:13,,,,,320,,,"Direct",1638,5674,4869
+- -,LIS,RAI,TACV (VR),TACV,1864,04:13,,,,,738,,,"Direct",1638,5674,5041
+- -,LIS,RAK,TAP Portugal (TP),TAP Portugal,499,01:29,,,,,319 100,,,"Direct",1638,1075,4869
+- -,LIS,REC,TAP Portugal (TP),TAP Portugal,3637,07:46,,,,,332,,,"Direct",1638,2610,4869
+- -,LIS,SID,TAP Portugal (TP),TAP Portugal,1735,03:58,,,,,320,,,"Direct",1638,1102,4869
+- -,LIS,SID,TACV (VR),TACV,1735,03:58,,,,,752,,,"Direct",1638,1102,5041
+- -,LIS,SMA,SATA International (S4),SATA International,881,02:15,,,,,320,,,"Direct",1638,1617,4304
+- -,LIS,SMA,TAP Portugal (TP),TAP Portugal,881,02:15,,,,,320,,,"Codeshare",1638,1617,4869
+- -,LIS,SSA,TAP Portugal (TP),TAP Portugal,4035,08:34,,,,,332,,,"Direct",1638,2621,4869
+- -,LIS,STN,Ryanair (FR),Ryanair,1010,02:31,,,,,738,,,"Direct",1638,548,4296
+- -,LIS,STR,Germanwings (4U),Germanwings,1138,02:46,,,,,319,,,"Direct",1638,350,2548
+- -,LIS,SVQ,SATA International (S4),SATA International,199,00:53,,,,,BEH,,,"Codeshare",1638,1253,4304
+- -,LIS,SVQ,TAP Portugal (TP),TAP Portugal,199,00:53,,,,,BEH,,,"Codeshare",1638,1253,4869
+- -,LIS,SXF,TAP Portugal (TP),TAP Portugal,1431,03:21,,,,,319 320,,,"Direct",1638,337,4869
+- -,LIS,SXF,easyJet (U2),easyJet,1431,03:21,,,,,319,,,"Direct",1638,337,2297
+- -,LIS,TER,SATA International (S4),SATA International,965,02:25,,,,,320,,,"Direct",1638,1629,4304
+- -,LIS,TER,TAP Portugal (TP),TAP Portugal,965,02:25,,,,,332 320 321 319,,,"Direct",1638,1629,4869
+- -,LIS,TLS,TAP Portugal (TP),TAP Portugal,639,01:46,,,,,100 ER4,,,"Codeshare",1638,1273,4869
+- -,LIS,TMS,TAP Portugal (TP),TAP Portugal,2835,06:10,,,,,313,,,"Codeshare",1638,973,4869
+- -,LIS,TMS,United Airlines (UA),United Airlines,2835,06:10,,,,,313,,,"Codeshare",1638,973,5209
+- -,LIS,TNG,TAP Portugal (TP),TAP Portugal,275,01:03,,,,,BEH,,,"Codeshare",1638,1080,4869
+- -,LIS,TUN,Tunisair (TU),Tunisair,1062,02:37,,,,,32A,,,"Direct",1638,287,4870
+- -,LIS,VCE,Alitalia (AZ),Alitalia,1189,02:52,,,,,319,,,"Codeshare",1638,1551,596
+- -,LIS,VCE,TAP Portugal (TP),TAP Portugal,1189,02:52,,,,,319,,,"Direct",1638,1551,4869
+- -,LIS,VCP,TAP Portugal (TP),TAP Portugal,4923,10:20,,,,,332,,,"Direct",1638,2578,4869
+- -,LIS,VIE,Austrian Airlines (OS),Austrian Airlines,1431,03:21,,,,,320 319,,,"Codeshare",1638,1613,491
+- -,LIS,VIE,TAP Portugal (TP),TAP Portugal,1431,03:21,,,,,320 319,,,"Direct",1638,1613,4869
+- -,LIS,VLC,SATA International (S4),SATA International,465,01:25,,,,,ER4 100,,,"Codeshare",1638,1246,4304
+- -,LIS,VLC,TAP Portugal (TP),TAP Portugal,465,01:25,,,,,ER4 100,,,"Codeshare",1638,1246,4869
+- -,LIS,VXE,TAP Portugal (TP),TAP Portugal,1794,04:05,,,,,320,,,"Direct",1638,1106,4869
+- -,LIS,VXE,TACV (VR),TACV,1794,04:05,,,,,738,,,"Direct",1638,1106,5041
+- -,LIS,WAW,LOT Polish Airlines (LO),LOT Polish Airlines,1707,03:54,,,,,320 319,,,"Codeshare",1638,679,3210
+- -,LIS,WAW,TAP Portugal (TP),TAP Portugal,1707,03:54,,,,,320 319,,,"Direct",1638,679,4869
+- -,LIS,YUL,Air Transat (TS),Air Transat,3251,07:00,,,,,310,,,"Direct",1638,146,1317
+- -,LIS,YYZ,SATA International (S4),SATA International,3564,07:37,,,,,313,,,"Direct",1638,193,4304
+- -,LIS,YYZ,TAP Portugal (TP),TAP Portugal,3564,07:37,,,,,313,,,"Codeshare",1638,193,4869
+- -,LIS,YYZ,Air Transat (TS),Air Transat,3564,07:37,,,,,310,,,"Direct",1638,193,1317
+- -,LIS,ZRH,Finnair (AY),Finnair,1070,02:38,,,,,321,,,"Codeshare",1638,1678,2350
+- -,LIS,ZRH,Swiss International Air Lines (LX),Swiss International Air Lines,1070,02:38,,,,,32A 320,,,"Direct",1638,1678,4559
+- -,LIS,ZRH,SATA International (S4),SATA International,1070,02:38,,,,,319 321,,,"Codeshare",1638,1678,4304
+- -,LIS,ZRH,TAP Portugal (TP),TAP Portugal,1070,02:38,,,,,320 321 319,,,"Direct",1638,1678,4869
