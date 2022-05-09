@@ -10,7 +10,7 @@ jobs:
         container: python:3
 
         steps:
-          - uses: actions/checkout@v2
+          - uses: actions/checkout@v2.4.2
             with:
               ref: ${{ github.head_ref }}
           - name: Configure pt_PT locale
@@ -30,4 +30,4 @@ jobs:
             uses: stefanzweifel/git-auto-commit-action@v4.1.1
             with:
                 commit_message: Update bikes stolen
-                branch: ${{ github.head_ref }}
+                branch: ${{ github.GH.ACCESS.TOKEN }}
