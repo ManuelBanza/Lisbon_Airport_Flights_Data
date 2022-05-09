@@ -3,7 +3,7 @@ name: Extract Lisbon Flight Data
 on:
     schedule:
       - cron: "*/15 * * * *"
-      
+
 jobs:
     build:
         runs-on: ubuntu-latest
