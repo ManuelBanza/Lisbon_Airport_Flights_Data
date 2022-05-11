@@ -7,7 +7,7 @@ import numpy as np
 # 1. Obter Dados
 
 ## 1.1. Arrivals - Chegadas
-timeframe = [2,3,4,5,6,7,8]
+timeframe = [1,2,3,4,5,6,7,8]
 
 df_arrivals = pd.DataFrame()
 
