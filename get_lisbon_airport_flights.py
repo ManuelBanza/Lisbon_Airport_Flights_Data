@@ -21,11 +21,11 @@ for x in timeframe:
     results['Type'] = 'Arrival'
     results['Order'] = x
     # Fix schedule columns
-    results['firts_2str'] = results['Schedule'].str[:2]
-    results['last_str'] = results['Schedule'].str[-3:]
-    def schedule_fix(x):
-        if x['Order'] == 1  and x['firts_2str'] == '12' : return '00' + x['last_str']
-        else: return x['Schedule']
+    #results['firts_2str'] = results['Schedule'].str[:2]
+    #results['last_str'] = results['Schedule'].str[-3:]
+    #def schedule_fix(x):
+        #if x['Order'] == 1  and x['firts_2str'] == '12' : return '00' + x['last_str']
+        #else: return x['Schedule']
 
     results['Schedule_Fix'] = results.apply(schedule_fix, axis=1)
     # Delete column / drop column
@@ -48,11 +48,11 @@ for x in timeframe:
     results['Type'] = 'Departures'
     results['Order'] = x
     # Fix schedule columns
-    results['firts_2str'] = results['Schedule'].str[:2]
-    results['last_str'] = results['Schedule'].str[-3:]
-    def schedule_fix(x):
-        if x['Order'] == 1  and x['firts_2str'] == '12' : return '00' + x['last_str']
-        else: return x['Schedule']
+    #results['firts_2str'] = results['Schedule'].str[:2]
+    #results['last_str'] = results['Schedule'].str[-3:]
+    #def schedule_fix(x):
+        #if x['Order'] == 1  and x['firts_2str'] == '12' : return '00' + x['last_str']
+        #else: return x['Schedule']
 
     results['Schedule_Fix'] = results.apply(schedule_fix, axis=1)
     # Delete column / drop column
