@@ -20,16 +20,19 @@ for x in timeframe:
     results = results.rename(columns={"a": "Airliner", "b": "Flight", "c": "Origin", "d" : "Status", "e" : "Schedule"})
     results['Type'] = 'Arrival'
     results['Order'] = x
-    # Fix schedule columns
-    results['firts_2str'] = results['Schedule'].str[:2]
-    results['last_str'] = results['Schedule'].str[-3:]
-    def schedule_fix(x):
-        if x['Order'] == 1  and x['firts_2str'] == '12' : return '00' + x['last_str']
-        else: return x['Schedule']
+    try:
+        # Fix schedule columns
+        results['firts_2str'] = results['Schedule'].str[:2]
+        results['last_str'] = results['Schedule'].str[-3:]
+        def schedule_fix(x):
+            if x['Order'] == 1  and x['firts_2str'] == '12' : return '00' + x['last_str']
+            else: return x['Schedule']
 
-    results['Schedule_Fix'] = results.apply(schedule_fix, axis=1)
-    # Delete column / drop column
-    results = results.drop(columns=['firts_2str', 'last_str'])
+        results['Schedule_Fix'] = results.apply(schedule_fix, axis=1)
+        # Delete column / drop column
+        results = results.drop(columns=['firts_2str', 'last_str'])
+    except:
+        pass
     df_arrivals = df_arrivals.append(results, ignore_index=True)
 
 
@@ -47,16 +50,20 @@ for x in timeframe:
     results = results.rename(columns={"a": "Airliner", "b": "Flight", "c": "Destination", "d" : "Status", "e" : "Schedule"})
     results['Type'] = 'Departures'
     results['Order'] = x
-    # Fix schedule columns
-    results['firts_2str'] = results['Schedule'].str[:2]
-    results['last_str'] = results['Schedule'].str[-3:]
-    def schedule_fix(x):
-        if x['Order'] == 1  and x['firts_2str'] == '12' : return '00' + x['last_str']
-        else: return x['Schedule']
+    try:
+        # Fix schedule columns
+        results['firts_2str'] = results['Schedule'].str[:2]
+        results['last_str'] = results['Schedule'].str[-3:]
+        def schedule_fix(x):
+            if x['Order'] == 1  and x['firts_2str'] == '12' : return '00' + x['last_str']
+            else: return x['Schedule']
 
-    results['Schedule_Fix'] = results.apply(schedule_fix, axis=1)
-    # Delete column / drop column
-    results = results.drop(columns=['firts_2str', 'last_str'])
+        results['Schedule_Fix'] = results.apply(schedule_fix, axis=1)
+        # Delete column / drop column
+        results = results.drop(columns=['firts_2str', 'last_str'])
+    except:
+        pass
+
     df_departures = df_departures.append(results, ignore_index=True)
 
 # Clean NaNs
