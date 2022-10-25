@@ -1,0 +1,393 @@
+Airliner,Flight,Origin,Status,Schedule,Type,Order,Schedule_Fix,Destination,Snapshot
+Copenhagen Airtaxi,9552,Faro (FAO),Scheduled,12:38,Arrival,1,00:38,Lisbon (LIS),2022-10-25
+British Airways,BA516,Heathrow (LHR),Scheduled,12:40,Arrival,1,00:40,Lisbon (LIS),2022-10-25
+American Airlines,AA6429,Heathrow (LHR),Scheduled,12:40,Arrival,1,00:40,Lisbon (LIS),2022-10-25
+Royal Air Maroc,AT980,Casablanca Mohamed V (CMN),Scheduled,12:45,Arrival,1,00:45,Lisbon (LIS),2022-10-25
+easyJet,U21445,Geneva (GVA),Scheduled,12:45,Arrival,1,00:45,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP1123,Alicante (ALC),Scheduled,12:50,Arrival,1,00:50,Lisbon (LIS),2022-10-25
+Azul,AD7326,Alicante (ALC),Scheduled,12:50,Arrival,1,00:50,Lisbon (LIS),2022-10-25
+Azores Airlines,S48242,Alicante (ALC),Scheduled,12:50,Arrival,1,00:50,Lisbon (LIS),2022-10-25
+easyJet,U28717,Gatwick (LGW),Scheduled,13:00,Arrival,1,13:00,Lisbon (LIS),2022-10-25
+Transavia,HV7658,Orly (ORY),Scheduled,13:05,Arrival,1,13:05,Lisbon (LIS),2022-10-25
+Transavia France,TO7658,Orly (ORY),Scheduled,13:05,Arrival,1,13:05,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP1558,Sao Vicente (VXE),Scheduled,13:05,Arrival,1,13:05,Lisbon (LIS),2022-10-25
+Emirates,EK4835,Sao Vicente (VXE),Scheduled,13:05,Arrival,1,13:05,Lisbon (LIS),2022-10-25
+Turkish Airlines,TK8143,Sao Vicente (VXE),Scheduled,13:05,Arrival,1,13:05,Lisbon (LIS),2022-10-25
+easyJet,U22715,Milan Malpensa (MXP),Scheduled,13:10,Arrival,1,13:10,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP1339,Gatwick (LGW),Scheduled,13:20,Arrival,1,13:20,Lisbon (LIS),2022-10-25
+Air Baltic,BT5294,Gatwick (LGW),Scheduled,13:20,Arrival,1,13:20,Lisbon (LIS),2022-10-25
+Azores Airlines,S48607,Gatwick (LGW),Scheduled,13:20,Arrival,1,13:20,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP1453,Marrakech (RAK),Scheduled,13:20,Arrival,1,13:20,Lisbon (LIS),2022-10-25
+Azores Airlines,S48308,Marrakech (RAK),Scheduled,13:20,Arrival,1,13:20,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP433,Orly (ORY),Scheduled,13:25,Arrival,1,13:25,Lisbon (LIS),2022-10-25
+Azores Airlines,S48931,Orly (ORY),Scheduled,13:25,Arrival,1,13:25,Lisbon (LIS),2022-10-25
+Vueling,VY8466,Barcelona (BCN),Scheduled,13:25,Arrival,1,13:25,Lisbon (LIS),2022-10-25
+Iberia,IB5864,Barcelona (BCN),Scheduled,13:25,Arrival,1,13:25,Lisbon (LIS),2022-10-25
+Qatar Airways,QR3614,Barcelona (BCN),Scheduled,13:25,Arrival,1,13:25,Lisbon (LIS),2022-10-25
+Lufthansa,LH1778,Munich (MUC),Scheduled,13:30,Arrival,1,13:30,Lisbon (LIS),2022-10-25
+Air Canada,AC9142,Munich (MUC),Scheduled,13:30,Arrival,1,13:30,Lisbon (LIS),2022-10-25
+Austrian,OS7487,Munich (MUC),Scheduled,13:30,Arrival,1,13:30,Lisbon (LIS),2022-10-25
+SAS,SK3264,Munich (MUC),Scheduled,13:30,Arrival,1,13:30,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP6720,Munich (MUC),Scheduled,13:30,Arrival,1,13:30,Lisbon (LIS),2022-10-25
+United Airlines,UA8938,Munich (MUC),Scheduled,13:30,Arrival,1,13:30,Lisbon (LIS),2022-10-25
+Swiftair,WT131,Funchal (FNC),Scheduled,13:30,Arrival,1,13:30,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP647,Brussels (BRU),Scheduled,13:35,Arrival,1,13:35,Lisbon (LIS),2022-10-25
+Air Canada,AC2678,Brussels (BRU),Scheduled,13:35,Arrival,1,13:35,Lisbon (LIS),2022-10-25
+Finnair,AY6767,Brussels (BRU),Scheduled,13:35,Arrival,1,13:35,Lisbon (LIS),2022-10-25
+Air Baltic,BT5315,Brussels (BRU),Scheduled,13:35,Arrival,1,13:35,Lisbon (LIS),2022-10-25
+Ethiopian Airlines,ET1733,Brussels (BRU),Scheduled,13:35,Arrival,1,13:35,Lisbon (LIS),2022-10-25
+El Al,LY9017,Brussels (BRU),Scheduled,13:35,Arrival,1,13:35,Lisbon (LIS),2022-10-25
+Brussels Airlines,SN6403,Brussels (BRU),Scheduled,13:35,Arrival,1,13:35,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP827,Milan Malpensa (MXP),Scheduled,13:40,Arrival,1,13:40,Lisbon (LIS),2022-10-25
+Aegean Airlines,A31717,Milan Malpensa (MXP),Scheduled,13:40,Arrival,1,13:40,Lisbon (LIS),2022-10-25
+Azul,AD7340,Milan Malpensa (MXP),Scheduled,13:40,Arrival,1,13:40,Lisbon (LIS),2022-10-25
+Finnair,AY6786,Milan Malpensa (MXP),Scheduled,13:40,Arrival,1,13:40,Lisbon (LIS),2022-10-25
+Alitalia,AZ7750,Milan Malpensa (MXP),Scheduled,13:40,Arrival,1,13:40,Lisbon (LIS),2022-10-25
+Ethiopian Airlines,ET1746,Milan Malpensa (MXP),Scheduled,13:40,Arrival,1,13:40,Lisbon (LIS),2022-10-25
+LOT - Polish Airlines,LO4709,Milan Malpensa (MXP),Scheduled,13:40,Arrival,1,13:40,Lisbon (LIS),2022-10-25
+El Al,LY9041,Milan Malpensa (MXP),Scheduled,13:40,Arrival,1,13:40,Lisbon (LIS),2022-10-25
+Azores Airlines,S48917,Milan Malpensa (MXP),Scheduled,13:40,Arrival,1,13:40,Lisbon (LIS),2022-10-25
+Copenhagen Airtaxi,9552,Faro (FAO),Scheduled,12:38,Arrival,2,12:38,Lisbon (LIS),2022-10-25
+British Airways,BA516,Heathrow (LHR),Scheduled,12:40,Arrival,2,12:40,Lisbon (LIS),2022-10-25
+American Airlines,AA6429,Heathrow (LHR),Scheduled,12:40,Arrival,2,12:40,Lisbon (LIS),2022-10-25
+Royal Air Maroc,AT980,Casablanca Mohamed V (CMN),Scheduled,12:45,Arrival,2,12:45,Lisbon (LIS),2022-10-25
+easyJet,U21445,Geneva (GVA),Scheduled,12:45,Arrival,2,12:45,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP1123,Alicante (ALC),Scheduled,12:50,Arrival,2,12:50,Lisbon (LIS),2022-10-25
+Azul,AD7326,Alicante (ALC),Scheduled,12:50,Arrival,2,12:50,Lisbon (LIS),2022-10-25
+Azores Airlines,S48242,Alicante (ALC),Scheduled,12:50,Arrival,2,12:50,Lisbon (LIS),2022-10-25
+easyJet,U28717,Gatwick (LGW),Scheduled,13:00,Arrival,2,13:00,Lisbon (LIS),2022-10-25
+Transavia,HV7658,Orly (ORY),Scheduled,13:05,Arrival,2,13:05,Lisbon (LIS),2022-10-25
+Transavia France,TO7658,Orly (ORY),Scheduled,13:05,Arrival,2,13:05,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP1558,Sao Vicente (VXE),Scheduled,13:05,Arrival,2,13:05,Lisbon (LIS),2022-10-25
+Emirates,EK4835,Sao Vicente (VXE),Scheduled,13:05,Arrival,2,13:05,Lisbon (LIS),2022-10-25
+Turkish Airlines,TK8143,Sao Vicente (VXE),Scheduled,13:05,Arrival,2,13:05,Lisbon (LIS),2022-10-25
+easyJet,U22715,Milan Malpensa (MXP),Scheduled,13:10,Arrival,2,13:10,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP1339,Gatwick (LGW),Scheduled,13:20,Arrival,2,13:20,Lisbon (LIS),2022-10-25
+Air Baltic,BT5294,Gatwick (LGW),Scheduled,13:20,Arrival,2,13:20,Lisbon (LIS),2022-10-25
+Azores Airlines,S48607,Gatwick (LGW),Scheduled,13:20,Arrival,2,13:20,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP1453,Marrakech (RAK),Scheduled,13:20,Arrival,2,13:20,Lisbon (LIS),2022-10-25
+Azores Airlines,S48308,Marrakech (RAK),Scheduled,13:20,Arrival,2,13:20,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP433,Orly (ORY),Scheduled,13:25,Arrival,2,13:25,Lisbon (LIS),2022-10-25
+Azores Airlines,S48931,Orly (ORY),Scheduled,13:25,Arrival,2,13:25,Lisbon (LIS),2022-10-25
+Vueling,VY8466,Barcelona (BCN),Scheduled,13:25,Arrival,2,13:25,Lisbon (LIS),2022-10-25
+Iberia,IB5864,Barcelona (BCN),Scheduled,13:25,Arrival,2,13:25,Lisbon (LIS),2022-10-25
+Qatar Airways,QR3614,Barcelona (BCN),Scheduled,13:25,Arrival,2,13:25,Lisbon (LIS),2022-10-25
+Lufthansa,LH1778,Munich (MUC),Scheduled,13:30,Arrival,2,13:30,Lisbon (LIS),2022-10-25
+Air Canada,AC9142,Munich (MUC),Scheduled,13:30,Arrival,2,13:30,Lisbon (LIS),2022-10-25
+Austrian,OS7487,Munich (MUC),Scheduled,13:30,Arrival,2,13:30,Lisbon (LIS),2022-10-25
+SAS,SK3264,Munich (MUC),Scheduled,13:30,Arrival,2,13:30,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP6720,Munich (MUC),Scheduled,13:30,Arrival,2,13:30,Lisbon (LIS),2022-10-25
+United Airlines,UA8938,Munich (MUC),Scheduled,13:30,Arrival,2,13:30,Lisbon (LIS),2022-10-25
+Swiftair,WT131,Funchal (FNC),Scheduled,13:30,Arrival,2,13:30,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP647,Brussels (BRU),Scheduled,13:35,Arrival,2,13:35,Lisbon (LIS),2022-10-25
+Air Canada,AC2678,Brussels (BRU),Scheduled,13:35,Arrival,2,13:35,Lisbon (LIS),2022-10-25
+Finnair,AY6767,Brussels (BRU),Scheduled,13:35,Arrival,2,13:35,Lisbon (LIS),2022-10-25
+Air Baltic,BT5315,Brussels (BRU),Scheduled,13:35,Arrival,2,13:35,Lisbon (LIS),2022-10-25
+Ethiopian Airlines,ET1733,Brussels (BRU),Scheduled,13:35,Arrival,2,13:35,Lisbon (LIS),2022-10-25
+El Al,LY9017,Brussels (BRU),Scheduled,13:35,Arrival,2,13:35,Lisbon (LIS),2022-10-25
+Brussels Airlines,SN6403,Brussels (BRU),Scheduled,13:35,Arrival,2,13:35,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP827,Milan Malpensa (MXP),Scheduled,13:40,Arrival,2,13:40,Lisbon (LIS),2022-10-25
+Aegean Airlines,A31717,Milan Malpensa (MXP),Scheduled,13:40,Arrival,2,13:40,Lisbon (LIS),2022-10-25
+Azul,AD7340,Milan Malpensa (MXP),Scheduled,13:40,Arrival,2,13:40,Lisbon (LIS),2022-10-25
+Finnair,AY6786,Milan Malpensa (MXP),Scheduled,13:40,Arrival,2,13:40,Lisbon (LIS),2022-10-25
+Alitalia,AZ7750,Milan Malpensa (MXP),Scheduled,13:40,Arrival,2,13:40,Lisbon (LIS),2022-10-25
+Ethiopian Airlines,ET1746,Milan Malpensa (MXP),Scheduled,13:40,Arrival,2,13:40,Lisbon (LIS),2022-10-25
+LOT - Polish Airlines,LO4709,Milan Malpensa (MXP),Scheduled,13:40,Arrival,2,13:40,Lisbon (LIS),2022-10-25
+El Al,LY9041,Milan Malpensa (MXP),Scheduled,13:40,Arrival,2,13:40,Lisbon (LIS),2022-10-25
+Azores Airlines,S48917,Milan Malpensa (MXP),Scheduled,13:40,Arrival,2,13:40,Lisbon (LIS),2022-10-25
+Copenhagen Airtaxi,9552,Faro (FAO),Scheduled,12:38,Arrival,3,12:38,Lisbon (LIS),2022-10-25
+British Airways,BA516,Heathrow (LHR),Scheduled,12:40,Arrival,3,12:40,Lisbon (LIS),2022-10-25
+American Airlines,AA6429,Heathrow (LHR),Scheduled,12:40,Arrival,3,12:40,Lisbon (LIS),2022-10-25
+Royal Air Maroc,AT980,Casablanca Mohamed V (CMN),Scheduled,12:45,Arrival,3,12:45,Lisbon (LIS),2022-10-25
+easyJet,U21445,Geneva (GVA),Scheduled,12:45,Arrival,3,12:45,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP1123,Alicante (ALC),Scheduled,12:50,Arrival,3,12:50,Lisbon (LIS),2022-10-25
+Azul,AD7326,Alicante (ALC),Scheduled,12:50,Arrival,3,12:50,Lisbon (LIS),2022-10-25
+Azores Airlines,S48242,Alicante (ALC),Scheduled,12:50,Arrival,3,12:50,Lisbon (LIS),2022-10-25
+easyJet,U28717,Gatwick (LGW),Scheduled,13:00,Arrival,3,13:00,Lisbon (LIS),2022-10-25
+Transavia,HV7658,Orly (ORY),Scheduled,13:05,Arrival,3,13:05,Lisbon (LIS),2022-10-25
+Transavia France,TO7658,Orly (ORY),Scheduled,13:05,Arrival,3,13:05,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP1558,Sao Vicente (VXE),Scheduled,13:05,Arrival,3,13:05,Lisbon (LIS),2022-10-25
+Emirates,EK4835,Sao Vicente (VXE),Scheduled,13:05,Arrival,3,13:05,Lisbon (LIS),2022-10-25
+Turkish Airlines,TK8143,Sao Vicente (VXE),Scheduled,13:05,Arrival,3,13:05,Lisbon (LIS),2022-10-25
+easyJet,U22715,Milan Malpensa (MXP),Scheduled,13:10,Arrival,3,13:10,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP1339,Gatwick (LGW),Scheduled,13:20,Arrival,3,13:20,Lisbon (LIS),2022-10-25
+Air Baltic,BT5294,Gatwick (LGW),Scheduled,13:20,Arrival,3,13:20,Lisbon (LIS),2022-10-25
+Azores Airlines,S48607,Gatwick (LGW),Scheduled,13:20,Arrival,3,13:20,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP1453,Marrakech (RAK),Scheduled,13:20,Arrival,3,13:20,Lisbon (LIS),2022-10-25
+Azores Airlines,S48308,Marrakech (RAK),Scheduled,13:20,Arrival,3,13:20,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP433,Orly (ORY),Scheduled,13:25,Arrival,3,13:25,Lisbon (LIS),2022-10-25
+Azores Airlines,S48931,Orly (ORY),Scheduled,13:25,Arrival,3,13:25,Lisbon (LIS),2022-10-25
+Vueling,VY8466,Barcelona (BCN),Scheduled,13:25,Arrival,3,13:25,Lisbon (LIS),2022-10-25
+Iberia,IB5864,Barcelona (BCN),Scheduled,13:25,Arrival,3,13:25,Lisbon (LIS),2022-10-25
+Qatar Airways,QR3614,Barcelona (BCN),Scheduled,13:25,Arrival,3,13:25,Lisbon (LIS),2022-10-25
+Lufthansa,LH1778,Munich (MUC),Scheduled,13:30,Arrival,3,13:30,Lisbon (LIS),2022-10-25
+Air Canada,AC9142,Munich (MUC),Scheduled,13:30,Arrival,3,13:30,Lisbon (LIS),2022-10-25
+Austrian,OS7487,Munich (MUC),Scheduled,13:30,Arrival,3,13:30,Lisbon (LIS),2022-10-25
+SAS,SK3264,Munich (MUC),Scheduled,13:30,Arrival,3,13:30,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP6720,Munich (MUC),Scheduled,13:30,Arrival,3,13:30,Lisbon (LIS),2022-10-25
+United Airlines,UA8938,Munich (MUC),Scheduled,13:30,Arrival,3,13:30,Lisbon (LIS),2022-10-25
+Swiftair,WT131,Funchal (FNC),Scheduled,13:30,Arrival,3,13:30,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP647,Brussels (BRU),Scheduled,13:35,Arrival,3,13:35,Lisbon (LIS),2022-10-25
+Air Canada,AC2678,Brussels (BRU),Scheduled,13:35,Arrival,3,13:35,Lisbon (LIS),2022-10-25
+Finnair,AY6767,Brussels (BRU),Scheduled,13:35,Arrival,3,13:35,Lisbon (LIS),2022-10-25
+Air Baltic,BT5315,Brussels (BRU),Scheduled,13:35,Arrival,3,13:35,Lisbon (LIS),2022-10-25
+Ethiopian Airlines,ET1733,Brussels (BRU),Scheduled,13:35,Arrival,3,13:35,Lisbon (LIS),2022-10-25
+El Al,LY9017,Brussels (BRU),Scheduled,13:35,Arrival,3,13:35,Lisbon (LIS),2022-10-25
+Brussels Airlines,SN6403,Brussels (BRU),Scheduled,13:35,Arrival,3,13:35,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP827,Milan Malpensa (MXP),Scheduled,13:40,Arrival,3,13:40,Lisbon (LIS),2022-10-25
+Aegean Airlines,A31717,Milan Malpensa (MXP),Scheduled,13:40,Arrival,3,13:40,Lisbon (LIS),2022-10-25
+Azul,AD7340,Milan Malpensa (MXP),Scheduled,13:40,Arrival,3,13:40,Lisbon (LIS),2022-10-25
+Finnair,AY6786,Milan Malpensa (MXP),Scheduled,13:40,Arrival,3,13:40,Lisbon (LIS),2022-10-25
+Alitalia,AZ7750,Milan Malpensa (MXP),Scheduled,13:40,Arrival,3,13:40,Lisbon (LIS),2022-10-25
+Ethiopian Airlines,ET1746,Milan Malpensa (MXP),Scheduled,13:40,Arrival,3,13:40,Lisbon (LIS),2022-10-25
+LOT - Polish Airlines,LO4709,Milan Malpensa (MXP),Scheduled,13:40,Arrival,3,13:40,Lisbon (LIS),2022-10-25
+El Al,LY9041,Milan Malpensa (MXP),Scheduled,13:40,Arrival,3,13:40,Lisbon (LIS),2022-10-25
+Azores Airlines,S48917,Milan Malpensa (MXP),Scheduled,13:40,Arrival,3,13:40,Lisbon (LIS),2022-10-25
+Copenhagen Airtaxi,9552,Faro (FAO),Scheduled,12:38,Arrival,4,12:38,Lisbon (LIS),2022-10-25
+British Airways,BA516,Heathrow (LHR),Scheduled,12:40,Arrival,4,12:40,Lisbon (LIS),2022-10-25
+American Airlines,AA6429,Heathrow (LHR),Scheduled,12:40,Arrival,4,12:40,Lisbon (LIS),2022-10-25
+Royal Air Maroc,AT980,Casablanca Mohamed V (CMN),Scheduled,12:45,Arrival,4,12:45,Lisbon (LIS),2022-10-25
+easyJet,U21445,Geneva (GVA),Scheduled,12:45,Arrival,4,12:45,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP1123,Alicante (ALC),Scheduled,12:50,Arrival,4,12:50,Lisbon (LIS),2022-10-25
+Azul,AD7326,Alicante (ALC),Scheduled,12:50,Arrival,4,12:50,Lisbon (LIS),2022-10-25
+Azores Airlines,S48242,Alicante (ALC),Scheduled,12:50,Arrival,4,12:50,Lisbon (LIS),2022-10-25
+easyJet,U28717,Gatwick (LGW),Scheduled,13:00,Arrival,4,13:00,Lisbon (LIS),2022-10-25
+Transavia,HV7658,Orly (ORY),Scheduled,13:05,Arrival,4,13:05,Lisbon (LIS),2022-10-25
+Transavia France,TO7658,Orly (ORY),Scheduled,13:05,Arrival,4,13:05,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP1558,Sao Vicente (VXE),Scheduled,13:05,Arrival,4,13:05,Lisbon (LIS),2022-10-25
+Emirates,EK4835,Sao Vicente (VXE),Scheduled,13:05,Arrival,4,13:05,Lisbon (LIS),2022-10-25
+Turkish Airlines,TK8143,Sao Vicente (VXE),Scheduled,13:05,Arrival,4,13:05,Lisbon (LIS),2022-10-25
+easyJet,U22715,Milan Malpensa (MXP),Scheduled,13:10,Arrival,4,13:10,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP1339,Gatwick (LGW),Scheduled,13:20,Arrival,4,13:20,Lisbon (LIS),2022-10-25
+Air Baltic,BT5294,Gatwick (LGW),Scheduled,13:20,Arrival,4,13:20,Lisbon (LIS),2022-10-25
+Azores Airlines,S48607,Gatwick (LGW),Scheduled,13:20,Arrival,4,13:20,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP1453,Marrakech (RAK),Scheduled,13:20,Arrival,4,13:20,Lisbon (LIS),2022-10-25
+Azores Airlines,S48308,Marrakech (RAK),Scheduled,13:20,Arrival,4,13:20,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP433,Orly (ORY),Scheduled,13:25,Arrival,4,13:25,Lisbon (LIS),2022-10-25
+Azores Airlines,S48931,Orly (ORY),Scheduled,13:25,Arrival,4,13:25,Lisbon (LIS),2022-10-25
+Vueling,VY8466,Barcelona (BCN),Scheduled,13:25,Arrival,4,13:25,Lisbon (LIS),2022-10-25
+Iberia,IB5864,Barcelona (BCN),Scheduled,13:25,Arrival,4,13:25,Lisbon (LIS),2022-10-25
+Qatar Airways,QR3614,Barcelona (BCN),Scheduled,13:25,Arrival,4,13:25,Lisbon (LIS),2022-10-25
+Lufthansa,LH1778,Munich (MUC),Scheduled,13:30,Arrival,4,13:30,Lisbon (LIS),2022-10-25
+Air Canada,AC9142,Munich (MUC),Scheduled,13:30,Arrival,4,13:30,Lisbon (LIS),2022-10-25
+Austrian,OS7487,Munich (MUC),Scheduled,13:30,Arrival,4,13:30,Lisbon (LIS),2022-10-25
+SAS,SK3264,Munich (MUC),Scheduled,13:30,Arrival,4,13:30,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP6720,Munich (MUC),Scheduled,13:30,Arrival,4,13:30,Lisbon (LIS),2022-10-25
+United Airlines,UA8938,Munich (MUC),Scheduled,13:30,Arrival,4,13:30,Lisbon (LIS),2022-10-25
+Swiftair,WT131,Funchal (FNC),Scheduled,13:30,Arrival,4,13:30,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP647,Brussels (BRU),Scheduled,13:35,Arrival,4,13:35,Lisbon (LIS),2022-10-25
+Air Canada,AC2678,Brussels (BRU),Scheduled,13:35,Arrival,4,13:35,Lisbon (LIS),2022-10-25
+Finnair,AY6767,Brussels (BRU),Scheduled,13:35,Arrival,4,13:35,Lisbon (LIS),2022-10-25
+Air Baltic,BT5315,Brussels (BRU),Scheduled,13:35,Arrival,4,13:35,Lisbon (LIS),2022-10-25
+Ethiopian Airlines,ET1733,Brussels (BRU),Scheduled,13:35,Arrival,4,13:35,Lisbon (LIS),2022-10-25
+El Al,LY9017,Brussels (BRU),Scheduled,13:35,Arrival,4,13:35,Lisbon (LIS),2022-10-25
+Brussels Airlines,SN6403,Brussels (BRU),Scheduled,13:35,Arrival,4,13:35,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP827,Milan Malpensa (MXP),Scheduled,13:40,Arrival,4,13:40,Lisbon (LIS),2022-10-25
+Aegean Airlines,A31717,Milan Malpensa (MXP),Scheduled,13:40,Arrival,4,13:40,Lisbon (LIS),2022-10-25
+Azul,AD7340,Milan Malpensa (MXP),Scheduled,13:40,Arrival,4,13:40,Lisbon (LIS),2022-10-25
+Finnair,AY6786,Milan Malpensa (MXP),Scheduled,13:40,Arrival,4,13:40,Lisbon (LIS),2022-10-25
+Alitalia,AZ7750,Milan Malpensa (MXP),Scheduled,13:40,Arrival,4,13:40,Lisbon (LIS),2022-10-25
+Ethiopian Airlines,ET1746,Milan Malpensa (MXP),Scheduled,13:40,Arrival,4,13:40,Lisbon (LIS),2022-10-25
+LOT - Polish Airlines,LO4709,Milan Malpensa (MXP),Scheduled,13:40,Arrival,4,13:40,Lisbon (LIS),2022-10-25
+El Al,LY9041,Milan Malpensa (MXP),Scheduled,13:40,Arrival,4,13:40,Lisbon (LIS),2022-10-25
+Azores Airlines,S48917,Milan Malpensa (MXP),Scheduled,13:40,Arrival,4,13:40,Lisbon (LIS),2022-10-25
+Copenhagen Airtaxi,9552,Faro (FAO),Scheduled,12:38,Arrival,5,12:38,Lisbon (LIS),2022-10-25
+British Airways,BA516,Heathrow (LHR),Scheduled,12:40,Arrival,5,12:40,Lisbon (LIS),2022-10-25
+American Airlines,AA6429,Heathrow (LHR),Scheduled,12:40,Arrival,5,12:40,Lisbon (LIS),2022-10-25
+Royal Air Maroc,AT980,Casablanca Mohamed V (CMN),Scheduled,12:45,Arrival,5,12:45,Lisbon (LIS),2022-10-25
+easyJet,U21445,Geneva (GVA),Scheduled,12:45,Arrival,5,12:45,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP1123,Alicante (ALC),Scheduled,12:50,Arrival,5,12:50,Lisbon (LIS),2022-10-25
+Azul,AD7326,Alicante (ALC),Scheduled,12:50,Arrival,5,12:50,Lisbon (LIS),2022-10-25
+Azores Airlines,S48242,Alicante (ALC),Scheduled,12:50,Arrival,5,12:50,Lisbon (LIS),2022-10-25
+easyJet,U28717,Gatwick (LGW),Scheduled,13:00,Arrival,5,13:00,Lisbon (LIS),2022-10-25
+Transavia,HV7658,Orly (ORY),Scheduled,13:05,Arrival,5,13:05,Lisbon (LIS),2022-10-25
+Transavia France,TO7658,Orly (ORY),Scheduled,13:05,Arrival,5,13:05,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP1558,Sao Vicente (VXE),Scheduled,13:05,Arrival,5,13:05,Lisbon (LIS),2022-10-25
+Emirates,EK4835,Sao Vicente (VXE),Scheduled,13:05,Arrival,5,13:05,Lisbon (LIS),2022-10-25
+Turkish Airlines,TK8143,Sao Vicente (VXE),Scheduled,13:05,Arrival,5,13:05,Lisbon (LIS),2022-10-25
+easyJet,U22715,Milan Malpensa (MXP),Scheduled,13:10,Arrival,5,13:10,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP1339,Gatwick (LGW),Scheduled,13:20,Arrival,5,13:20,Lisbon (LIS),2022-10-25
+Air Baltic,BT5294,Gatwick (LGW),Scheduled,13:20,Arrival,5,13:20,Lisbon (LIS),2022-10-25
+Azores Airlines,S48607,Gatwick (LGW),Scheduled,13:20,Arrival,5,13:20,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP1453,Marrakech (RAK),Scheduled,13:20,Arrival,5,13:20,Lisbon (LIS),2022-10-25
+Azores Airlines,S48308,Marrakech (RAK),Scheduled,13:20,Arrival,5,13:20,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP433,Orly (ORY),Scheduled,13:25,Arrival,5,13:25,Lisbon (LIS),2022-10-25
+Azores Airlines,S48931,Orly (ORY),Scheduled,13:25,Arrival,5,13:25,Lisbon (LIS),2022-10-25
+Vueling,VY8466,Barcelona (BCN),Scheduled,13:25,Arrival,5,13:25,Lisbon (LIS),2022-10-25
+Iberia,IB5864,Barcelona (BCN),Scheduled,13:25,Arrival,5,13:25,Lisbon (LIS),2022-10-25
+Qatar Airways,QR3614,Barcelona (BCN),Scheduled,13:25,Arrival,5,13:25,Lisbon (LIS),2022-10-25
+Lufthansa,LH1778,Munich (MUC),Scheduled,13:30,Arrival,5,13:30,Lisbon (LIS),2022-10-25
+Air Canada,AC9142,Munich (MUC),Scheduled,13:30,Arrival,5,13:30,Lisbon (LIS),2022-10-25
+Austrian,OS7487,Munich (MUC),Scheduled,13:30,Arrival,5,13:30,Lisbon (LIS),2022-10-25
+SAS,SK3264,Munich (MUC),Scheduled,13:30,Arrival,5,13:30,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP6720,Munich (MUC),Scheduled,13:30,Arrival,5,13:30,Lisbon (LIS),2022-10-25
+United Airlines,UA8938,Munich (MUC),Scheduled,13:30,Arrival,5,13:30,Lisbon (LIS),2022-10-25
+Swiftair,WT131,Funchal (FNC),Scheduled,13:30,Arrival,5,13:30,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP647,Brussels (BRU),Scheduled,13:35,Arrival,5,13:35,Lisbon (LIS),2022-10-25
+Air Canada,AC2678,Brussels (BRU),Scheduled,13:35,Arrival,5,13:35,Lisbon (LIS),2022-10-25
+Finnair,AY6767,Brussels (BRU),Scheduled,13:35,Arrival,5,13:35,Lisbon (LIS),2022-10-25
+Air Baltic,BT5315,Brussels (BRU),Scheduled,13:35,Arrival,5,13:35,Lisbon (LIS),2022-10-25
+Ethiopian Airlines,ET1733,Brussels (BRU),Scheduled,13:35,Arrival,5,13:35,Lisbon (LIS),2022-10-25
+El Al,LY9017,Brussels (BRU),Scheduled,13:35,Arrival,5,13:35,Lisbon (LIS),2022-10-25
+Brussels Airlines,SN6403,Brussels (BRU),Scheduled,13:35,Arrival,5,13:35,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP827,Milan Malpensa (MXP),Scheduled,13:40,Arrival,5,13:40,Lisbon (LIS),2022-10-25
+Aegean Airlines,A31717,Milan Malpensa (MXP),Scheduled,13:40,Arrival,5,13:40,Lisbon (LIS),2022-10-25
+Azul,AD7340,Milan Malpensa (MXP),Scheduled,13:40,Arrival,5,13:40,Lisbon (LIS),2022-10-25
+Finnair,AY6786,Milan Malpensa (MXP),Scheduled,13:40,Arrival,5,13:40,Lisbon (LIS),2022-10-25
+Alitalia,AZ7750,Milan Malpensa (MXP),Scheduled,13:40,Arrival,5,13:40,Lisbon (LIS),2022-10-25
+Ethiopian Airlines,ET1746,Milan Malpensa (MXP),Scheduled,13:40,Arrival,5,13:40,Lisbon (LIS),2022-10-25
+LOT - Polish Airlines,LO4709,Milan Malpensa (MXP),Scheduled,13:40,Arrival,5,13:40,Lisbon (LIS),2022-10-25
+El Al,LY9041,Milan Malpensa (MXP),Scheduled,13:40,Arrival,5,13:40,Lisbon (LIS),2022-10-25
+Azores Airlines,S48917,Milan Malpensa (MXP),Scheduled,13:40,Arrival,5,13:40,Lisbon (LIS),2022-10-25
+Copenhagen Airtaxi,9552,Faro (FAO),Scheduled,12:38,Arrival,6,12:38,Lisbon (LIS),2022-10-25
+British Airways,BA516,Heathrow (LHR),Scheduled,12:40,Arrival,6,12:40,Lisbon (LIS),2022-10-25
+American Airlines,AA6429,Heathrow (LHR),Scheduled,12:40,Arrival,6,12:40,Lisbon (LIS),2022-10-25
+Royal Air Maroc,AT980,Casablanca Mohamed V (CMN),Scheduled,12:45,Arrival,6,12:45,Lisbon (LIS),2022-10-25
+easyJet,U21445,Geneva (GVA),Scheduled,12:45,Arrival,6,12:45,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP1123,Alicante (ALC),Scheduled,12:50,Arrival,6,12:50,Lisbon (LIS),2022-10-25
+Azul,AD7326,Alicante (ALC),Scheduled,12:50,Arrival,6,12:50,Lisbon (LIS),2022-10-25
+Azores Airlines,S48242,Alicante (ALC),Scheduled,12:50,Arrival,6,12:50,Lisbon (LIS),2022-10-25
+easyJet,U28717,Gatwick (LGW),Scheduled,13:00,Arrival,6,13:00,Lisbon (LIS),2022-10-25
+Transavia,HV7658,Orly (ORY),Scheduled,13:05,Arrival,6,13:05,Lisbon (LIS),2022-10-25
+Transavia France,TO7658,Orly (ORY),Scheduled,13:05,Arrival,6,13:05,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP1558,Sao Vicente (VXE),Scheduled,13:05,Arrival,6,13:05,Lisbon (LIS),2022-10-25
+Emirates,EK4835,Sao Vicente (VXE),Scheduled,13:05,Arrival,6,13:05,Lisbon (LIS),2022-10-25
+Turkish Airlines,TK8143,Sao Vicente (VXE),Scheduled,13:05,Arrival,6,13:05,Lisbon (LIS),2022-10-25
+easyJet,U22715,Milan Malpensa (MXP),Scheduled,13:10,Arrival,6,13:10,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP1339,Gatwick (LGW),Scheduled,13:20,Arrival,6,13:20,Lisbon (LIS),2022-10-25
+Air Baltic,BT5294,Gatwick (LGW),Scheduled,13:20,Arrival,6,13:20,Lisbon (LIS),2022-10-25
+Azores Airlines,S48607,Gatwick (LGW),Scheduled,13:20,Arrival,6,13:20,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP1453,Marrakech (RAK),Scheduled,13:20,Arrival,6,13:20,Lisbon (LIS),2022-10-25
+Azores Airlines,S48308,Marrakech (RAK),Scheduled,13:20,Arrival,6,13:20,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP433,Orly (ORY),Scheduled,13:25,Arrival,6,13:25,Lisbon (LIS),2022-10-25
+Azores Airlines,S48931,Orly (ORY),Scheduled,13:25,Arrival,6,13:25,Lisbon (LIS),2022-10-25
+Vueling,VY8466,Barcelona (BCN),Scheduled,13:25,Arrival,6,13:25,Lisbon (LIS),2022-10-25
+Iberia,IB5864,Barcelona (BCN),Scheduled,13:25,Arrival,6,13:25,Lisbon (LIS),2022-10-25
+Qatar Airways,QR3614,Barcelona (BCN),Scheduled,13:25,Arrival,6,13:25,Lisbon (LIS),2022-10-25
+Lufthansa,LH1778,Munich (MUC),Scheduled,13:30,Arrival,6,13:30,Lisbon (LIS),2022-10-25
+Air Canada,AC9142,Munich (MUC),Scheduled,13:30,Arrival,6,13:30,Lisbon (LIS),2022-10-25
+Austrian,OS7487,Munich (MUC),Scheduled,13:30,Arrival,6,13:30,Lisbon (LIS),2022-10-25
+SAS,SK3264,Munich (MUC),Scheduled,13:30,Arrival,6,13:30,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP6720,Munich (MUC),Scheduled,13:30,Arrival,6,13:30,Lisbon (LIS),2022-10-25
+United Airlines,UA8938,Munich (MUC),Scheduled,13:30,Arrival,6,13:30,Lisbon (LIS),2022-10-25
+Swiftair,WT131,Funchal (FNC),Scheduled,13:30,Arrival,6,13:30,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP647,Brussels (BRU),Scheduled,13:35,Arrival,6,13:35,Lisbon (LIS),2022-10-25
+Air Canada,AC2678,Brussels (BRU),Scheduled,13:35,Arrival,6,13:35,Lisbon (LIS),2022-10-25
+Finnair,AY6767,Brussels (BRU),Scheduled,13:35,Arrival,6,13:35,Lisbon (LIS),2022-10-25
+Air Baltic,BT5315,Brussels (BRU),Scheduled,13:35,Arrival,6,13:35,Lisbon (LIS),2022-10-25
+Ethiopian Airlines,ET1733,Brussels (BRU),Scheduled,13:35,Arrival,6,13:35,Lisbon (LIS),2022-10-25
+El Al,LY9017,Brussels (BRU),Scheduled,13:35,Arrival,6,13:35,Lisbon (LIS),2022-10-25
+Brussels Airlines,SN6403,Brussels (BRU),Scheduled,13:35,Arrival,6,13:35,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP827,Milan Malpensa (MXP),Scheduled,13:40,Arrival,6,13:40,Lisbon (LIS),2022-10-25
+Aegean Airlines,A31717,Milan Malpensa (MXP),Scheduled,13:40,Arrival,6,13:40,Lisbon (LIS),2022-10-25
+Azul,AD7340,Milan Malpensa (MXP),Scheduled,13:40,Arrival,6,13:40,Lisbon (LIS),2022-10-25
+Finnair,AY6786,Milan Malpensa (MXP),Scheduled,13:40,Arrival,6,13:40,Lisbon (LIS),2022-10-25
+Alitalia,AZ7750,Milan Malpensa (MXP),Scheduled,13:40,Arrival,6,13:40,Lisbon (LIS),2022-10-25
+Ethiopian Airlines,ET1746,Milan Malpensa (MXP),Scheduled,13:40,Arrival,6,13:40,Lisbon (LIS),2022-10-25
+LOT - Polish Airlines,LO4709,Milan Malpensa (MXP),Scheduled,13:40,Arrival,6,13:40,Lisbon (LIS),2022-10-25
+El Al,LY9041,Milan Malpensa (MXP),Scheduled,13:40,Arrival,6,13:40,Lisbon (LIS),2022-10-25
+Azores Airlines,S48917,Milan Malpensa (MXP),Scheduled,13:40,Arrival,6,13:40,Lisbon (LIS),2022-10-25
+Copenhagen Airtaxi,9552,Faro (FAO),Scheduled,12:38,Arrival,7,12:38,Lisbon (LIS),2022-10-25
+British Airways,BA516,Heathrow (LHR),Scheduled,12:40,Arrival,7,12:40,Lisbon (LIS),2022-10-25
+American Airlines,AA6429,Heathrow (LHR),Scheduled,12:40,Arrival,7,12:40,Lisbon (LIS),2022-10-25
+Royal Air Maroc,AT980,Casablanca Mohamed V (CMN),Scheduled,12:45,Arrival,7,12:45,Lisbon (LIS),2022-10-25
+easyJet,U21445,Geneva (GVA),Scheduled,12:45,Arrival,7,12:45,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP1123,Alicante (ALC),Scheduled,12:50,Arrival,7,12:50,Lisbon (LIS),2022-10-25
+Azul,AD7326,Alicante (ALC),Scheduled,12:50,Arrival,7,12:50,Lisbon (LIS),2022-10-25
+Azores Airlines,S48242,Alicante (ALC),Scheduled,12:50,Arrival,7,12:50,Lisbon (LIS),2022-10-25
+easyJet,U28717,Gatwick (LGW),Scheduled,13:00,Arrival,7,13:00,Lisbon (LIS),2022-10-25
+Transavia,HV7658,Orly (ORY),Scheduled,13:05,Arrival,7,13:05,Lisbon (LIS),2022-10-25
+Transavia France,TO7658,Orly (ORY),Scheduled,13:05,Arrival,7,13:05,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP1558,Sao Vicente (VXE),Scheduled,13:05,Arrival,7,13:05,Lisbon (LIS),2022-10-25
+Emirates,EK4835,Sao Vicente (VXE),Scheduled,13:05,Arrival,7,13:05,Lisbon (LIS),2022-10-25
+Turkish Airlines,TK8143,Sao Vicente (VXE),Scheduled,13:05,Arrival,7,13:05,Lisbon (LIS),2022-10-25
+easyJet,U22715,Milan Malpensa (MXP),Scheduled,13:10,Arrival,7,13:10,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP1339,Gatwick (LGW),Scheduled,13:20,Arrival,7,13:20,Lisbon (LIS),2022-10-25
+Air Baltic,BT5294,Gatwick (LGW),Scheduled,13:20,Arrival,7,13:20,Lisbon (LIS),2022-10-25
+Azores Airlines,S48607,Gatwick (LGW),Scheduled,13:20,Arrival,7,13:20,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP1453,Marrakech (RAK),Scheduled,13:20,Arrival,7,13:20,Lisbon (LIS),2022-10-25
+Azores Airlines,S48308,Marrakech (RAK),Scheduled,13:20,Arrival,7,13:20,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP433,Orly (ORY),Scheduled,13:25,Arrival,7,13:25,Lisbon (LIS),2022-10-25
+Azores Airlines,S48931,Orly (ORY),Scheduled,13:25,Arrival,7,13:25,Lisbon (LIS),2022-10-25
+Vueling,VY8466,Barcelona (BCN),Scheduled,13:25,Arrival,7,13:25,Lisbon (LIS),2022-10-25
+Iberia,IB5864,Barcelona (BCN),Scheduled,13:25,Arrival,7,13:25,Lisbon (LIS),2022-10-25
+Qatar Airways,QR3614,Barcelona (BCN),Scheduled,13:25,Arrival,7,13:25,Lisbon (LIS),2022-10-25
+Lufthansa,LH1778,Munich (MUC),Scheduled,13:30,Arrival,7,13:30,Lisbon (LIS),2022-10-25
+Air Canada,AC9142,Munich (MUC),Scheduled,13:30,Arrival,7,13:30,Lisbon (LIS),2022-10-25
+Austrian,OS7487,Munich (MUC),Scheduled,13:30,Arrival,7,13:30,Lisbon (LIS),2022-10-25
+SAS,SK3264,Munich (MUC),Scheduled,13:30,Arrival,7,13:30,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP6720,Munich (MUC),Scheduled,13:30,Arrival,7,13:30,Lisbon (LIS),2022-10-25
+United Airlines,UA8938,Munich (MUC),Scheduled,13:30,Arrival,7,13:30,Lisbon (LIS),2022-10-25
+Swiftair,WT131,Funchal (FNC),Scheduled,13:30,Arrival,7,13:30,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP647,Brussels (BRU),Scheduled,13:35,Arrival,7,13:35,Lisbon (LIS),2022-10-25
+Air Canada,AC2678,Brussels (BRU),Scheduled,13:35,Arrival,7,13:35,Lisbon (LIS),2022-10-25
+Finnair,AY6767,Brussels (BRU),Scheduled,13:35,Arrival,7,13:35,Lisbon (LIS),2022-10-25
+Air Baltic,BT5315,Brussels (BRU),Scheduled,13:35,Arrival,7,13:35,Lisbon (LIS),2022-10-25
+Ethiopian Airlines,ET1733,Brussels (BRU),Scheduled,13:35,Arrival,7,13:35,Lisbon (LIS),2022-10-25
+El Al,LY9017,Brussels (BRU),Scheduled,13:35,Arrival,7,13:35,Lisbon (LIS),2022-10-25
+Brussels Airlines,SN6403,Brussels (BRU),Scheduled,13:35,Arrival,7,13:35,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP827,Milan Malpensa (MXP),Scheduled,13:40,Arrival,7,13:40,Lisbon (LIS),2022-10-25
+Aegean Airlines,A31717,Milan Malpensa (MXP),Scheduled,13:40,Arrival,7,13:40,Lisbon (LIS),2022-10-25
+Azul,AD7340,Milan Malpensa (MXP),Scheduled,13:40,Arrival,7,13:40,Lisbon (LIS),2022-10-25
+Finnair,AY6786,Milan Malpensa (MXP),Scheduled,13:40,Arrival,7,13:40,Lisbon (LIS),2022-10-25
+Alitalia,AZ7750,Milan Malpensa (MXP),Scheduled,13:40,Arrival,7,13:40,Lisbon (LIS),2022-10-25
+Ethiopian Airlines,ET1746,Milan Malpensa (MXP),Scheduled,13:40,Arrival,7,13:40,Lisbon (LIS),2022-10-25
+LOT - Polish Airlines,LO4709,Milan Malpensa (MXP),Scheduled,13:40,Arrival,7,13:40,Lisbon (LIS),2022-10-25
+El Al,LY9041,Milan Malpensa (MXP),Scheduled,13:40,Arrival,7,13:40,Lisbon (LIS),2022-10-25
+Azores Airlines,S48917,Milan Malpensa (MXP),Scheduled,13:40,Arrival,7,13:40,Lisbon (LIS),2022-10-25
+Copenhagen Airtaxi,9552,Faro (FAO),Scheduled,12:38,Arrival,8,12:38,Lisbon (LIS),2022-10-25
+British Airways,BA516,Heathrow (LHR),Scheduled,12:40,Arrival,8,12:40,Lisbon (LIS),2022-10-25
+American Airlines,AA6429,Heathrow (LHR),Scheduled,12:40,Arrival,8,12:40,Lisbon (LIS),2022-10-25
+Royal Air Maroc,AT980,Casablanca Mohamed V (CMN),Scheduled,12:45,Arrival,8,12:45,Lisbon (LIS),2022-10-25
+easyJet,U21445,Geneva (GVA),Scheduled,12:45,Arrival,8,12:45,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP1123,Alicante (ALC),Scheduled,12:50,Arrival,8,12:50,Lisbon (LIS),2022-10-25
+Azul,AD7326,Alicante (ALC),Scheduled,12:50,Arrival,8,12:50,Lisbon (LIS),2022-10-25
+Azores Airlines,S48242,Alicante (ALC),Scheduled,12:50,Arrival,8,12:50,Lisbon (LIS),2022-10-25
+easyJet,U28717,Gatwick (LGW),Scheduled,13:00,Arrival,8,13:00,Lisbon (LIS),2022-10-25
+Transavia,HV7658,Orly (ORY),Scheduled,13:05,Arrival,8,13:05,Lisbon (LIS),2022-10-25
+Transavia France,TO7658,Orly (ORY),Scheduled,13:05,Arrival,8,13:05,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP1558,Sao Vicente (VXE),Scheduled,13:05,Arrival,8,13:05,Lisbon (LIS),2022-10-25
+Emirates,EK4835,Sao Vicente (VXE),Scheduled,13:05,Arrival,8,13:05,Lisbon (LIS),2022-10-25
+Turkish Airlines,TK8143,Sao Vicente (VXE),Scheduled,13:05,Arrival,8,13:05,Lisbon (LIS),2022-10-25
+easyJet,U22715,Milan Malpensa (MXP),Scheduled,13:10,Arrival,8,13:10,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP1339,Gatwick (LGW),Scheduled,13:20,Arrival,8,13:20,Lisbon (LIS),2022-10-25
+Air Baltic,BT5294,Gatwick (LGW),Scheduled,13:20,Arrival,8,13:20,Lisbon (LIS),2022-10-25
+Azores Airlines,S48607,Gatwick (LGW),Scheduled,13:20,Arrival,8,13:20,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP1453,Marrakech (RAK),Scheduled,13:20,Arrival,8,13:20,Lisbon (LIS),2022-10-25
+Azores Airlines,S48308,Marrakech (RAK),Scheduled,13:20,Arrival,8,13:20,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP433,Orly (ORY),Scheduled,13:25,Arrival,8,13:25,Lisbon (LIS),2022-10-25
+Azores Airlines,S48931,Orly (ORY),Scheduled,13:25,Arrival,8,13:25,Lisbon (LIS),2022-10-25
+Vueling,VY8466,Barcelona (BCN),Scheduled,13:25,Arrival,8,13:25,Lisbon (LIS),2022-10-25
+Iberia,IB5864,Barcelona (BCN),Scheduled,13:25,Arrival,8,13:25,Lisbon (LIS),2022-10-25
+Qatar Airways,QR3614,Barcelona (BCN),Scheduled,13:25,Arrival,8,13:25,Lisbon (LIS),2022-10-25
+Lufthansa,LH1778,Munich (MUC),Scheduled,13:30,Arrival,8,13:30,Lisbon (LIS),2022-10-25
+Air Canada,AC9142,Munich (MUC),Scheduled,13:30,Arrival,8,13:30,Lisbon (LIS),2022-10-25
+Austrian,OS7487,Munich (MUC),Scheduled,13:30,Arrival,8,13:30,Lisbon (LIS),2022-10-25
+SAS,SK3264,Munich (MUC),Scheduled,13:30,Arrival,8,13:30,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP6720,Munich (MUC),Scheduled,13:30,Arrival,8,13:30,Lisbon (LIS),2022-10-25
+United Airlines,UA8938,Munich (MUC),Scheduled,13:30,Arrival,8,13:30,Lisbon (LIS),2022-10-25
+Swiftair,WT131,Funchal (FNC),Scheduled,13:30,Arrival,8,13:30,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP647,Brussels (BRU),Scheduled,13:35,Arrival,8,13:35,Lisbon (LIS),2022-10-25
+Air Canada,AC2678,Brussels (BRU),Scheduled,13:35,Arrival,8,13:35,Lisbon (LIS),2022-10-25
+Finnair,AY6767,Brussels (BRU),Scheduled,13:35,Arrival,8,13:35,Lisbon (LIS),2022-10-25
+Air Baltic,BT5315,Brussels (BRU),Scheduled,13:35,Arrival,8,13:35,Lisbon (LIS),2022-10-25
+Ethiopian Airlines,ET1733,Brussels (BRU),Scheduled,13:35,Arrival,8,13:35,Lisbon (LIS),2022-10-25
+El Al,LY9017,Brussels (BRU),Scheduled,13:35,Arrival,8,13:35,Lisbon (LIS),2022-10-25
+Brussels Airlines,SN6403,Brussels (BRU),Scheduled,13:35,Arrival,8,13:35,Lisbon (LIS),2022-10-25
+TAP Air Portugal,TP827,Milan Malpensa (MXP),Scheduled,13:40,Arrival,8,13:40,Lisbon (LIS),2022-10-25
+Aegean Airlines,A31717,Milan Malpensa (MXP),Scheduled,13:40,Arrival,8,13:40,Lisbon (LIS),2022-10-25
+Azul,AD7340,Milan Malpensa (MXP),Scheduled,13:40,Arrival,8,13:40,Lisbon (LIS),2022-10-25
+Finnair,AY6786,Milan Malpensa (MXP),Scheduled,13:40,Arrival,8,13:40,Lisbon (LIS),2022-10-25
+Alitalia,AZ7750,Milan Malpensa (MXP),Scheduled,13:40,Arrival,8,13:40,Lisbon (LIS),2022-10-25
+Ethiopian Airlines,ET1746,Milan Malpensa (MXP),Scheduled,13:40,Arrival,8,13:40,Lisbon (LIS),2022-10-25
+LOT - Polish Airlines,LO4709,Milan Malpensa (MXP),Scheduled,13:40,Arrival,8,13:40,Lisbon (LIS),2022-10-25
+El Al,LY9041,Milan Malpensa (MXP),Scheduled,13:40,Arrival,8,13:40,Lisbon (LIS),2022-10-25
+Azores Airlines,S48917,Milan Malpensa (MXP),Scheduled,13:40,Arrival,8,13:40,Lisbon (LIS),2022-10-25
+Ryanair,FR2693,Lisbon (LIS),Scheduled,12:40,Departures,1,00:40,Rome Ciampino (CIA),2022-10-25
+Ryanair,FR2693,Lisbon (LIS),Scheduled,12:40,Departures,2,12:40,Rome Ciampino (CIA),2022-10-25
+Ryanair,FR2693,Lisbon (LIS),Scheduled,12:40,Departures,3,12:40,Rome Ciampino (CIA),2022-10-25
+Ryanair,FR2693,Lisbon (LIS),Scheduled,12:40,Departures,4,12:40,Rome Ciampino (CIA),2022-10-25
+Ryanair,FR2693,Lisbon (LIS),Scheduled,12:40,Departures,5,12:40,Rome Ciampino (CIA),2022-10-25
+Ryanair,FR2693,Lisbon (LIS),Scheduled,12:40,Departures,6,12:40,Rome Ciampino (CIA),2022-10-25
+Ryanair,FR2693,Lisbon (LIS),Scheduled,12:40,Departures,7,12:40,Rome Ciampino (CIA),2022-10-25
+Ryanair,FR2693,Lisbon (LIS),Scheduled,12:40,Departures,8,12:40,Rome Ciampino (CIA),2022-10-25
