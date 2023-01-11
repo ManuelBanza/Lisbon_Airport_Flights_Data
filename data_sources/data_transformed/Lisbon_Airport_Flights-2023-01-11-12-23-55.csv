@@ -1,0 +1,673 @@
+Airliner,Flight,Origin,Status,Schedule,Type,Order,Schedule_Fix,Destination,Snapshot
+TAP Air Portugal,TP1828,Terceira Island (TER),Scheduled,09:15,Arrival,1,09:15,Lisbon (LIS),2023-01-11
+Azul,AD7452,Terceira Island (TER),Scheduled,09:15,Arrival,1,09:15,Lisbon (LIS),2023-01-11
+Emirates,EK4775,Terceira Island (TER),Scheduled,09:15,Arrival,1,09:15,Lisbon (LIS),2023-01-11
+Azores Airlines,S48828,Terceira Island (TER),Scheduled,09:15,Arrival,1,09:15,Lisbon (LIS),2023-01-11
+Turkish Airlines,TK8115,Terceira Island (TER),Scheduled,09:15,Arrival,1,09:15,Lisbon (LIS),2023-01-11
+Ryanair,FR1991,Stansted (STN),Scheduled,09:20,Arrival,1,09:20,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP34,Fortaleza (FOR),Scheduled,09:20,Arrival,1,09:20,Lisbon (LIS),2023-01-11
+Azul,AD7262,Fortaleza (FOR),Scheduled,09:20,Arrival,1,09:20,Lisbon (LIS),2023-01-11
+Emirates,EK4811,Fortaleza (FOR),Scheduled,09:20,Arrival,1,09:20,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP441,Orly (ORY),Scheduled,09:30,Arrival,1,09:30,Lisbon (LIS),2023-01-11
+Azul,AD7350,Orly (ORY),Scheduled,09:30,Arrival,1,09:30,Lisbon (LIS),2023-01-11
+Azores Airlines,S48927,Orly (ORY),Scheduled,09:30,Arrival,1,09:30,Lisbon (LIS),2023-01-11
+Ryanair,FR5328,Dublin (DUB),Scheduled,09:40,Arrival,1,09:40,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP16,Recife (REC),Scheduled,09:40,Arrival,1,09:40,Lisbon (LIS),2023-01-11
+Azul,AD7518,Recife (REC),Scheduled,09:40,Arrival,1,09:40,Lisbon (LIS),2023-01-11
+Emirates,EK4827,Recife (REC),Scheduled,09:40,Arrival,1,09:40,Lisbon (LIS),2023-01-11
+El Al,LY9097,Recife (REC),Scheduled,09:40,Arrival,1,09:40,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP1604,Tel Aviv Yafo Ben Gurion (TLV),Scheduled,09:40,Arrival,1,09:40,Lisbon (LIS),2023-01-11
+El Al,LY9109,Tel Aviv Yafo Ben Gurion (TLV),Scheduled,09:40,Arrival,1,09:40,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP1698,Funchal (FNC),Scheduled,09:40,Arrival,1,09:40,Lisbon (LIS),2023-01-11
+Emirates,EK4780,Funchal (FNC),Scheduled,09:40,Arrival,1,09:40,Lisbon (LIS),2023-01-11
+Azores Airlines,S48020,Funchal (FNC),Scheduled,09:40,Arrival,1,09:40,Lisbon (LIS),2023-01-11
+Turkish Airlines,TK8127,Funchal (FNC),Scheduled,09:40,Arrival,1,09:40,Lisbon (LIS),2023-01-11
+United Airlines,UA6882,Funchal (FNC),Scheduled,09:40,Arrival,1,09:40,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP210,New York JFK (JFK),Scheduled,09:40,Arrival,1,09:40,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP1828,Terceira Island (TER),Scheduled,09:15,Arrival,2,09:15,Lisbon (LIS),2023-01-11
+Azul,AD7452,Terceira Island (TER),Scheduled,09:15,Arrival,2,09:15,Lisbon (LIS),2023-01-11
+Emirates,EK4775,Terceira Island (TER),Scheduled,09:15,Arrival,2,09:15,Lisbon (LIS),2023-01-11
+Azores Airlines,S48828,Terceira Island (TER),Scheduled,09:15,Arrival,2,09:15,Lisbon (LIS),2023-01-11
+Turkish Airlines,TK8115,Terceira Island (TER),Scheduled,09:15,Arrival,2,09:15,Lisbon (LIS),2023-01-11
+Ryanair,FR1991,Stansted (STN),Scheduled,09:20,Arrival,2,09:20,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP34,Fortaleza (FOR),Scheduled,09:20,Arrival,2,09:20,Lisbon (LIS),2023-01-11
+Azul,AD7262,Fortaleza (FOR),Scheduled,09:20,Arrival,2,09:20,Lisbon (LIS),2023-01-11
+Emirates,EK4811,Fortaleza (FOR),Scheduled,09:20,Arrival,2,09:20,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP441,Orly (ORY),Scheduled,09:30,Arrival,2,09:30,Lisbon (LIS),2023-01-11
+Azul,AD7350,Orly (ORY),Scheduled,09:30,Arrival,2,09:30,Lisbon (LIS),2023-01-11
+Azores Airlines,S48927,Orly (ORY),Scheduled,09:30,Arrival,2,09:30,Lisbon (LIS),2023-01-11
+Ryanair,FR5328,Dublin (DUB),Scheduled,09:40,Arrival,2,09:40,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP16,Recife (REC),Scheduled,09:40,Arrival,2,09:40,Lisbon (LIS),2023-01-11
+Azul,AD7518,Recife (REC),Scheduled,09:40,Arrival,2,09:40,Lisbon (LIS),2023-01-11
+Emirates,EK4827,Recife (REC),Scheduled,09:40,Arrival,2,09:40,Lisbon (LIS),2023-01-11
+El Al,LY9097,Recife (REC),Scheduled,09:40,Arrival,2,09:40,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP1604,Tel Aviv Yafo Ben Gurion (TLV),Scheduled,09:40,Arrival,2,09:40,Lisbon (LIS),2023-01-11
+El Al,LY9109,Tel Aviv Yafo Ben Gurion (TLV),Scheduled,09:40,Arrival,2,09:40,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP1698,Funchal (FNC),Scheduled,09:40,Arrival,2,09:40,Lisbon (LIS),2023-01-11
+Emirates,EK4780,Funchal (FNC),Scheduled,09:40,Arrival,2,09:40,Lisbon (LIS),2023-01-11
+Azores Airlines,S48020,Funchal (FNC),Scheduled,09:40,Arrival,2,09:40,Lisbon (LIS),2023-01-11
+Turkish Airlines,TK8127,Funchal (FNC),Scheduled,09:40,Arrival,2,09:40,Lisbon (LIS),2023-01-11
+United Airlines,UA6882,Funchal (FNC),Scheduled,09:40,Arrival,2,09:40,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP210,New York JFK (JFK),Scheduled,09:40,Arrival,2,09:40,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP1828,Terceira Island (TER),Scheduled,09:15,Arrival,3,09:15,Lisbon (LIS),2023-01-11
+Azul,AD7452,Terceira Island (TER),Scheduled,09:15,Arrival,3,09:15,Lisbon (LIS),2023-01-11
+Emirates,EK4775,Terceira Island (TER),Scheduled,09:15,Arrival,3,09:15,Lisbon (LIS),2023-01-11
+Azores Airlines,S48828,Terceira Island (TER),Scheduled,09:15,Arrival,3,09:15,Lisbon (LIS),2023-01-11
+Turkish Airlines,TK8115,Terceira Island (TER),Scheduled,09:15,Arrival,3,09:15,Lisbon (LIS),2023-01-11
+Ryanair,FR1991,Stansted (STN),Scheduled,09:20,Arrival,3,09:20,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP34,Fortaleza (FOR),Scheduled,09:20,Arrival,3,09:20,Lisbon (LIS),2023-01-11
+Azul,AD7262,Fortaleza (FOR),Scheduled,09:20,Arrival,3,09:20,Lisbon (LIS),2023-01-11
+Emirates,EK4811,Fortaleza (FOR),Scheduled,09:20,Arrival,3,09:20,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP441,Orly (ORY),Scheduled,09:30,Arrival,3,09:30,Lisbon (LIS),2023-01-11
+Azul,AD7350,Orly (ORY),Scheduled,09:30,Arrival,3,09:30,Lisbon (LIS),2023-01-11
+Azores Airlines,S48927,Orly (ORY),Scheduled,09:30,Arrival,3,09:30,Lisbon (LIS),2023-01-11
+Ryanair,FR5328,Dublin (DUB),Scheduled,09:40,Arrival,3,09:40,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP16,Recife (REC),Scheduled,09:40,Arrival,3,09:40,Lisbon (LIS),2023-01-11
+Azul,AD7518,Recife (REC),Scheduled,09:40,Arrival,3,09:40,Lisbon (LIS),2023-01-11
+Emirates,EK4827,Recife (REC),Scheduled,09:40,Arrival,3,09:40,Lisbon (LIS),2023-01-11
+El Al,LY9097,Recife (REC),Scheduled,09:40,Arrival,3,09:40,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP1604,Tel Aviv Yafo Ben Gurion (TLV),Scheduled,09:40,Arrival,3,09:40,Lisbon (LIS),2023-01-11
+El Al,LY9109,Tel Aviv Yafo Ben Gurion (TLV),Scheduled,09:40,Arrival,3,09:40,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP1698,Funchal (FNC),Scheduled,09:40,Arrival,3,09:40,Lisbon (LIS),2023-01-11
+Emirates,EK4780,Funchal (FNC),Scheduled,09:40,Arrival,3,09:40,Lisbon (LIS),2023-01-11
+Azores Airlines,S48020,Funchal (FNC),Scheduled,09:40,Arrival,3,09:40,Lisbon (LIS),2023-01-11
+Turkish Airlines,TK8127,Funchal (FNC),Scheduled,09:40,Arrival,3,09:40,Lisbon (LIS),2023-01-11
+United Airlines,UA6882,Funchal (FNC),Scheduled,09:40,Arrival,3,09:40,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP210,New York JFK (JFK),Scheduled,09:40,Arrival,3,09:40,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP1828,Terceira Island (TER),Scheduled,09:15,Arrival,4,09:15,Lisbon (LIS),2023-01-11
+Azul,AD7452,Terceira Island (TER),Scheduled,09:15,Arrival,4,09:15,Lisbon (LIS),2023-01-11
+Emirates,EK4775,Terceira Island (TER),Scheduled,09:15,Arrival,4,09:15,Lisbon (LIS),2023-01-11
+Azores Airlines,S48828,Terceira Island (TER),Scheduled,09:15,Arrival,4,09:15,Lisbon (LIS),2023-01-11
+Turkish Airlines,TK8115,Terceira Island (TER),Scheduled,09:15,Arrival,4,09:15,Lisbon (LIS),2023-01-11
+Ryanair,FR1991,Stansted (STN),Scheduled,09:20,Arrival,4,09:20,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP34,Fortaleza (FOR),Scheduled,09:20,Arrival,4,09:20,Lisbon (LIS),2023-01-11
+Azul,AD7262,Fortaleza (FOR),Scheduled,09:20,Arrival,4,09:20,Lisbon (LIS),2023-01-11
+Emirates,EK4811,Fortaleza (FOR),Scheduled,09:20,Arrival,4,09:20,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP441,Orly (ORY),Scheduled,09:30,Arrival,4,09:30,Lisbon (LIS),2023-01-11
+Azul,AD7350,Orly (ORY),Scheduled,09:30,Arrival,4,09:30,Lisbon (LIS),2023-01-11
+Azores Airlines,S48927,Orly (ORY),Scheduled,09:30,Arrival,4,09:30,Lisbon (LIS),2023-01-11
+Ryanair,FR5328,Dublin (DUB),Scheduled,09:40,Arrival,4,09:40,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP16,Recife (REC),Scheduled,09:40,Arrival,4,09:40,Lisbon (LIS),2023-01-11
+Azul,AD7518,Recife (REC),Scheduled,09:40,Arrival,4,09:40,Lisbon (LIS),2023-01-11
+Emirates,EK4827,Recife (REC),Scheduled,09:40,Arrival,4,09:40,Lisbon (LIS),2023-01-11
+El Al,LY9097,Recife (REC),Scheduled,09:40,Arrival,4,09:40,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP1604,Tel Aviv Yafo Ben Gurion (TLV),Scheduled,09:40,Arrival,4,09:40,Lisbon (LIS),2023-01-11
+El Al,LY9109,Tel Aviv Yafo Ben Gurion (TLV),Scheduled,09:40,Arrival,4,09:40,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP1698,Funchal (FNC),Scheduled,09:40,Arrival,4,09:40,Lisbon (LIS),2023-01-11
+Emirates,EK4780,Funchal (FNC),Scheduled,09:40,Arrival,4,09:40,Lisbon (LIS),2023-01-11
+Azores Airlines,S48020,Funchal (FNC),Scheduled,09:40,Arrival,4,09:40,Lisbon (LIS),2023-01-11
+Turkish Airlines,TK8127,Funchal (FNC),Scheduled,09:40,Arrival,4,09:40,Lisbon (LIS),2023-01-11
+United Airlines,UA6882,Funchal (FNC),Scheduled,09:40,Arrival,4,09:40,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP210,New York JFK (JFK),Scheduled,09:40,Arrival,4,09:40,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP1828,Terceira Island (TER),Scheduled,09:15,Arrival,5,09:15,Lisbon (LIS),2023-01-11
+Azul,AD7452,Terceira Island (TER),Scheduled,09:15,Arrival,5,09:15,Lisbon (LIS),2023-01-11
+Emirates,EK4775,Terceira Island (TER),Scheduled,09:15,Arrival,5,09:15,Lisbon (LIS),2023-01-11
+Azores Airlines,S48828,Terceira Island (TER),Scheduled,09:15,Arrival,5,09:15,Lisbon (LIS),2023-01-11
+Turkish Airlines,TK8115,Terceira Island (TER),Scheduled,09:15,Arrival,5,09:15,Lisbon (LIS),2023-01-11
+Ryanair,FR1991,Stansted (STN),Scheduled,09:20,Arrival,5,09:20,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP34,Fortaleza (FOR),Scheduled,09:20,Arrival,5,09:20,Lisbon (LIS),2023-01-11
+Azul,AD7262,Fortaleza (FOR),Scheduled,09:20,Arrival,5,09:20,Lisbon (LIS),2023-01-11
+Emirates,EK4811,Fortaleza (FOR),Scheduled,09:20,Arrival,5,09:20,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP441,Orly (ORY),Scheduled,09:30,Arrival,5,09:30,Lisbon (LIS),2023-01-11
+Azul,AD7350,Orly (ORY),Scheduled,09:30,Arrival,5,09:30,Lisbon (LIS),2023-01-11
+Azores Airlines,S48927,Orly (ORY),Scheduled,09:30,Arrival,5,09:30,Lisbon (LIS),2023-01-11
+Ryanair,FR5328,Dublin (DUB),Scheduled,09:40,Arrival,5,09:40,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP16,Recife (REC),Scheduled,09:40,Arrival,5,09:40,Lisbon (LIS),2023-01-11
+Azul,AD7518,Recife (REC),Scheduled,09:40,Arrival,5,09:40,Lisbon (LIS),2023-01-11
+Emirates,EK4827,Recife (REC),Scheduled,09:40,Arrival,5,09:40,Lisbon (LIS),2023-01-11
+El Al,LY9097,Recife (REC),Scheduled,09:40,Arrival,5,09:40,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP1604,Tel Aviv Yafo Ben Gurion (TLV),Scheduled,09:40,Arrival,5,09:40,Lisbon (LIS),2023-01-11
+El Al,LY9109,Tel Aviv Yafo Ben Gurion (TLV),Scheduled,09:40,Arrival,5,09:40,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP1698,Funchal (FNC),Scheduled,09:40,Arrival,5,09:40,Lisbon (LIS),2023-01-11
+Emirates,EK4780,Funchal (FNC),Scheduled,09:40,Arrival,5,09:40,Lisbon (LIS),2023-01-11
+Azores Airlines,S48020,Funchal (FNC),Scheduled,09:40,Arrival,5,09:40,Lisbon (LIS),2023-01-11
+Turkish Airlines,TK8127,Funchal (FNC),Scheduled,09:40,Arrival,5,09:40,Lisbon (LIS),2023-01-11
+United Airlines,UA6882,Funchal (FNC),Scheduled,09:40,Arrival,5,09:40,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP210,New York JFK (JFK),Scheduled,09:40,Arrival,5,09:40,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP1828,Terceira Island (TER),Scheduled,09:15,Arrival,6,09:15,Lisbon (LIS),2023-01-11
+Azul,AD7452,Terceira Island (TER),Scheduled,09:15,Arrival,6,09:15,Lisbon (LIS),2023-01-11
+Emirates,EK4775,Terceira Island (TER),Scheduled,09:15,Arrival,6,09:15,Lisbon (LIS),2023-01-11
+Azores Airlines,S48828,Terceira Island (TER),Scheduled,09:15,Arrival,6,09:15,Lisbon (LIS),2023-01-11
+Turkish Airlines,TK8115,Terceira Island (TER),Scheduled,09:15,Arrival,6,09:15,Lisbon (LIS),2023-01-11
+Ryanair,FR1991,Stansted (STN),Scheduled,09:20,Arrival,6,09:20,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP34,Fortaleza (FOR),Scheduled,09:20,Arrival,6,09:20,Lisbon (LIS),2023-01-11
+Azul,AD7262,Fortaleza (FOR),Scheduled,09:20,Arrival,6,09:20,Lisbon (LIS),2023-01-11
+Emirates,EK4811,Fortaleza (FOR),Scheduled,09:20,Arrival,6,09:20,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP441,Orly (ORY),Scheduled,09:30,Arrival,6,09:30,Lisbon (LIS),2023-01-11
+Azul,AD7350,Orly (ORY),Scheduled,09:30,Arrival,6,09:30,Lisbon (LIS),2023-01-11
+Azores Airlines,S48927,Orly (ORY),Scheduled,09:30,Arrival,6,09:30,Lisbon (LIS),2023-01-11
+Ryanair,FR5328,Dublin (DUB),Scheduled,09:40,Arrival,6,09:40,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP16,Recife (REC),Scheduled,09:40,Arrival,6,09:40,Lisbon (LIS),2023-01-11
+Azul,AD7518,Recife (REC),Scheduled,09:40,Arrival,6,09:40,Lisbon (LIS),2023-01-11
+Emirates,EK4827,Recife (REC),Scheduled,09:40,Arrival,6,09:40,Lisbon (LIS),2023-01-11
+El Al,LY9097,Recife (REC),Scheduled,09:40,Arrival,6,09:40,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP1604,Tel Aviv Yafo Ben Gurion (TLV),Scheduled,09:40,Arrival,6,09:40,Lisbon (LIS),2023-01-11
+El Al,LY9109,Tel Aviv Yafo Ben Gurion (TLV),Scheduled,09:40,Arrival,6,09:40,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP1698,Funchal (FNC),Scheduled,09:40,Arrival,6,09:40,Lisbon (LIS),2023-01-11
+Emirates,EK4780,Funchal (FNC),Scheduled,09:40,Arrival,6,09:40,Lisbon (LIS),2023-01-11
+Azores Airlines,S48020,Funchal (FNC),Scheduled,09:40,Arrival,6,09:40,Lisbon (LIS),2023-01-11
+Turkish Airlines,TK8127,Funchal (FNC),Scheduled,09:40,Arrival,6,09:40,Lisbon (LIS),2023-01-11
+United Airlines,UA6882,Funchal (FNC),Scheduled,09:40,Arrival,6,09:40,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP210,New York JFK (JFK),Scheduled,09:40,Arrival,6,09:40,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP1828,Terceira Island (TER),Scheduled,09:15,Arrival,7,09:15,Lisbon (LIS),2023-01-11
+Azul,AD7452,Terceira Island (TER),Scheduled,09:15,Arrival,7,09:15,Lisbon (LIS),2023-01-11
+Emirates,EK4775,Terceira Island (TER),Scheduled,09:15,Arrival,7,09:15,Lisbon (LIS),2023-01-11
+Azores Airlines,S48828,Terceira Island (TER),Scheduled,09:15,Arrival,7,09:15,Lisbon (LIS),2023-01-11
+Turkish Airlines,TK8115,Terceira Island (TER),Scheduled,09:15,Arrival,7,09:15,Lisbon (LIS),2023-01-11
+Ryanair,FR1991,Stansted (STN),Scheduled,09:20,Arrival,7,09:20,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP34,Fortaleza (FOR),Scheduled,09:20,Arrival,7,09:20,Lisbon (LIS),2023-01-11
+Azul,AD7262,Fortaleza (FOR),Scheduled,09:20,Arrival,7,09:20,Lisbon (LIS),2023-01-11
+Emirates,EK4811,Fortaleza (FOR),Scheduled,09:20,Arrival,7,09:20,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP441,Orly (ORY),Scheduled,09:30,Arrival,7,09:30,Lisbon (LIS),2023-01-11
+Azul,AD7350,Orly (ORY),Scheduled,09:30,Arrival,7,09:30,Lisbon (LIS),2023-01-11
+Azores Airlines,S48927,Orly (ORY),Scheduled,09:30,Arrival,7,09:30,Lisbon (LIS),2023-01-11
+Ryanair,FR5328,Dublin (DUB),Scheduled,09:40,Arrival,7,09:40,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP16,Recife (REC),Scheduled,09:40,Arrival,7,09:40,Lisbon (LIS),2023-01-11
+Azul,AD7518,Recife (REC),Scheduled,09:40,Arrival,7,09:40,Lisbon (LIS),2023-01-11
+Emirates,EK4827,Recife (REC),Scheduled,09:40,Arrival,7,09:40,Lisbon (LIS),2023-01-11
+El Al,LY9097,Recife (REC),Scheduled,09:40,Arrival,7,09:40,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP1604,Tel Aviv Yafo Ben Gurion (TLV),Scheduled,09:40,Arrival,7,09:40,Lisbon (LIS),2023-01-11
+El Al,LY9109,Tel Aviv Yafo Ben Gurion (TLV),Scheduled,09:40,Arrival,7,09:40,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP1698,Funchal (FNC),Scheduled,09:40,Arrival,7,09:40,Lisbon (LIS),2023-01-11
+Emirates,EK4780,Funchal (FNC),Scheduled,09:40,Arrival,7,09:40,Lisbon (LIS),2023-01-11
+Azores Airlines,S48020,Funchal (FNC),Scheduled,09:40,Arrival,7,09:40,Lisbon (LIS),2023-01-11
+Turkish Airlines,TK8127,Funchal (FNC),Scheduled,09:40,Arrival,7,09:40,Lisbon (LIS),2023-01-11
+United Airlines,UA6882,Funchal (FNC),Scheduled,09:40,Arrival,7,09:40,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP210,New York JFK (JFK),Scheduled,09:40,Arrival,7,09:40,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP1828,Terceira Island (TER),Scheduled,09:15,Arrival,8,09:15,Lisbon (LIS),2023-01-11
+Azul,AD7452,Terceira Island (TER),Scheduled,09:15,Arrival,8,09:15,Lisbon (LIS),2023-01-11
+Emirates,EK4775,Terceira Island (TER),Scheduled,09:15,Arrival,8,09:15,Lisbon (LIS),2023-01-11
+Azores Airlines,S48828,Terceira Island (TER),Scheduled,09:15,Arrival,8,09:15,Lisbon (LIS),2023-01-11
+Turkish Airlines,TK8115,Terceira Island (TER),Scheduled,09:15,Arrival,8,09:15,Lisbon (LIS),2023-01-11
+Ryanair,FR1991,Stansted (STN),Scheduled,09:20,Arrival,8,09:20,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP34,Fortaleza (FOR),Scheduled,09:20,Arrival,8,09:20,Lisbon (LIS),2023-01-11
+Azul,AD7262,Fortaleza (FOR),Scheduled,09:20,Arrival,8,09:20,Lisbon (LIS),2023-01-11
+Emirates,EK4811,Fortaleza (FOR),Scheduled,09:20,Arrival,8,09:20,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP441,Orly (ORY),Scheduled,09:30,Arrival,8,09:30,Lisbon (LIS),2023-01-11
+Azul,AD7350,Orly (ORY),Scheduled,09:30,Arrival,8,09:30,Lisbon (LIS),2023-01-11
+Azores Airlines,S48927,Orly (ORY),Scheduled,09:30,Arrival,8,09:30,Lisbon (LIS),2023-01-11
+Ryanair,FR5328,Dublin (DUB),Scheduled,09:40,Arrival,8,09:40,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP16,Recife (REC),Scheduled,09:40,Arrival,8,09:40,Lisbon (LIS),2023-01-11
+Azul,AD7518,Recife (REC),Scheduled,09:40,Arrival,8,09:40,Lisbon (LIS),2023-01-11
+Emirates,EK4827,Recife (REC),Scheduled,09:40,Arrival,8,09:40,Lisbon (LIS),2023-01-11
+El Al,LY9097,Recife (REC),Scheduled,09:40,Arrival,8,09:40,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP1604,Tel Aviv Yafo Ben Gurion (TLV),Scheduled,09:40,Arrival,8,09:40,Lisbon (LIS),2023-01-11
+El Al,LY9109,Tel Aviv Yafo Ben Gurion (TLV),Scheduled,09:40,Arrival,8,09:40,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP1698,Funchal (FNC),Scheduled,09:40,Arrival,8,09:40,Lisbon (LIS),2023-01-11
+Emirates,EK4780,Funchal (FNC),Scheduled,09:40,Arrival,8,09:40,Lisbon (LIS),2023-01-11
+Azores Airlines,S48020,Funchal (FNC),Scheduled,09:40,Arrival,8,09:40,Lisbon (LIS),2023-01-11
+Turkish Airlines,TK8127,Funchal (FNC),Scheduled,09:40,Arrival,8,09:40,Lisbon (LIS),2023-01-11
+United Airlines,UA6882,Funchal (FNC),Scheduled,09:40,Arrival,8,09:40,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP210,New York JFK (JFK),Scheduled,09:40,Arrival,8,09:40,Lisbon (LIS),2023-01-11
+TAP Air Portugal,TP1545,Lisbon (LIS),Scheduled,09:10,Departures,1,09:10,Praia (RAI),2023-01-11
+TAP Air Portugal,TP1557,Lisbon (LIS),Scheduled,09:10,Departures,1,09:10,Sao Vicente (VXE),2023-01-11
+Emirates,EK4834,Lisbon (LIS),Scheduled,09:10,Departures,1,09:10,Sao Vicente (VXE),2023-01-11
+Turkish Airlines,TK8142,Lisbon (LIS),Scheduled,09:10,Departures,1,09:10,Sao Vicente (VXE),2023-01-11
+TAP Air Portugal,TP1436,Lisbon (LIS),Scheduled,09:15,Departures,1,09:15,Casablanca Mohamed V (CMN),2023-01-11
+Beijing Capital Airlines,JD5416,Lisbon (LIS),Scheduled,09:15,Departures,1,09:15,Casablanca Mohamed V (CMN),2023-01-11
+Azores Airlines,S48302,Lisbon (LIS),Scheduled,09:15,Departures,1,09:15,Casablanca Mohamed V (CMN),2023-01-11
+TAP Air Portugal,TP1452,Lisbon (LIS),Scheduled,09:25,Departures,1,09:25,Marrakech (RAK),2023-01-11
+Azores Airlines,S48375,Lisbon (LIS),Scheduled,09:25,Departures,1,09:25,Marrakech (RAK),2023-01-11
+TAP Air Portugal,TP1827,Lisbon (LIS),Scheduled,09:25,Departures,1,09:25,Terceira Island (TER),2023-01-11
+Azul,AD7453,Lisbon (LIS),Scheduled,09:25,Departures,1,09:25,Terceira Island (TER),2023-01-11
+Azores Airlines,S48827,Lisbon (LIS),Scheduled,09:25,Departures,1,09:25,Terceira Island (TER),2023-01-11
+Ryanair,FR3961,Lisbon (LIS),Scheduled,09:30,Departures,1,09:30,Bergamo (BGY),2023-01-11
+TAP Air Portugal,TP1527,Lisbon (LIS),Scheduled,09:35,Departures,1,09:35,Accra (ACC),2023-01-11
+Transavia,HV7641,Lisbon (LIS),Scheduled,09:40,Departures,1,09:40,Orly (ORY),2023-01-11
+TAP Air Portugal,TP1907,Lisbon (LIS),Scheduled,09:45,Departures,1,09:45,Faro (FAO),2023-01-11
+Azul,AD7300,Lisbon (LIS),Scheduled,09:45,Departures,1,09:45,Faro (FAO),2023-01-11
+Emirates,EK4790,Lisbon (LIS),Scheduled,09:45,Departures,1,09:45,Faro (FAO),2023-01-11
+Beijing Capital Airlines,JD5408,Lisbon (LIS),Scheduled,09:45,Departures,1,09:45,Faro (FAO),2023-01-11
+Luxair,LG1979,Lisbon (LIS),Scheduled,09:45,Departures,1,09:45,Faro (FAO),2023-01-11
+Lufthansa,LH6966,Lisbon (LIS),Scheduled,09:45,Departures,1,09:45,Faro (FAO),2023-01-11
+Azores Airlines,S48421,Lisbon (LIS),Scheduled,09:45,Departures,1,09:45,Faro (FAO),2023-01-11
+United Airlines,UA6874,Lisbon (LIS),Scheduled,09:45,Departures,1,09:45,Faro (FAO),2023-01-11
+Ryanair,FR1990,Lisbon (LIS),Scheduled,09:50,Departures,1,09:50,Stansted (STN),2023-01-11
+TAP Air Portugal,TP1352,Lisbon (LIS),Scheduled,09:50,Departures,1,09:50,Heathrow (LHR),2023-01-11
+Aegean Airlines,A31734,Lisbon (LIS),Scheduled,09:50,Departures,1,09:50,Heathrow (LHR),2023-01-11
+Air Canada,AC2709,Lisbon (LIS),Scheduled,09:50,Departures,1,09:50,Heathrow (LHR),2023-01-11
+Azul,AD7327,Lisbon (LIS),Scheduled,09:50,Departures,1,09:50,Heathrow (LHR),2023-01-11
+Air India,AI7912,Lisbon (LIS),Scheduled,09:50,Departures,1,09:50,Heathrow (LHR),2023-01-11
+Ethiopian Airlines,ET1737,Lisbon (LIS),Scheduled,09:50,Departures,1,09:50,Heathrow (LHR),2023-01-11
+El Al,LY9056,Lisbon (LIS),Scheduled,09:50,Departures,1,09:50,Heathrow (LHR),2023-01-11
+Azores Airlines,S48616,Lisbon (LIS),Scheduled,09:50,Departures,1,09:50,Heathrow (LHR),2023-01-11
+United Airlines,UA6865,Lisbon (LIS),Scheduled,09:50,Departures,1,09:50,Heathrow (LHR),2023-01-11
+TAP Air Portugal,TP103,Lisbon (LIS),Scheduled,09:55,Departures,1,09:55,Belo Horizonte Tancredo Neves (CNF),2023-01-11
+Azul,AD7255,Lisbon (LIS),Scheduled,09:55,Departures,1,09:55,Belo Horizonte Tancredo Neves (CNF),2023-01-11
+Emirates,EK4804,Lisbon (LIS),Scheduled,09:55,Departures,1,09:55,Belo Horizonte Tancredo Neves (CNF),2023-01-11
+TAP Air Portugal,TP1479,Lisbon (LIS),Scheduled,09:55,Departures,1,09:55,Bissau (OXB),2023-01-11
+Azul,AD8751,Lisbon (LIS),Scheduled,10:00,Departures,1,10:00,Campinas Viracopos (VCP),2023-01-11
+TAP Air Portugal,TP5001,Lisbon (LIS),Scheduled,10:00,Departures,1,10:00,Campinas Viracopos (VCP),2023-01-11
+Delta Air Lines,DL273,Lisbon (LIS),Scheduled,10:00,Departures,1,10:00,New York JFK (JFK),2023-01-11
+Air France,AF3564,Lisbon (LIS),Scheduled,10:00,Departures,1,10:00,New York JFK (JFK),2023-01-11
+KLM,KL6098,Lisbon (LIS),Scheduled,10:00,Departures,1,10:00,New York JFK (JFK),2023-01-11
+Virgin Atlantic,VS3898,Lisbon (LIS),Scheduled,10:00,Departures,1,10:00,New York JFK (JFK),2023-01-11
+TAP Air Portugal,TP1924,Lisbon (LIS),Scheduled,10:00,Departures,1,10:00,Porto (OPO),2023-01-11
+Azul,AD7490,Lisbon (LIS),Scheduled,10:00,Departures,1,10:00,Porto (OPO),2023-01-11
+Lufthansa,LH6944,Lisbon (LIS),Scheduled,10:00,Departures,1,10:00,Porto (OPO),2023-01-11
+Azores Airlines,S48424,Lisbon (LIS),Scheduled,10:00,Departures,1,10:00,Porto (OPO),2023-01-11
+United Airlines,UA6895,Lisbon (LIS),Scheduled,10:00,Departures,1,10:00,Porto (OPO),2023-01-11
+Ryanair,FR5333,Lisbon (LIS),Scheduled,10:05,Departures,1,10:05,Dublin (DUB),2023-01-11
+TAP Air Portugal,TP223,Lisbon (LIS),Scheduled,10:15,Departures,1,10:15,Miami (MIA),2023-01-11
+United Airlines,UA65,Lisbon (LIS),Scheduled,10:15,Departures,1,10:15,Newark (EWR),2023-01-11
+Air Canada,AC5857,Lisbon (LIS),Scheduled,10:15,Departures,1,10:15,Newark (EWR),2023-01-11
+Lufthansa,LH7967,Lisbon (LIS),Scheduled,10:15,Departures,1,10:15,Newark (EWR),2023-01-11
+Brussels Airlines,SN9026,Lisbon (LIS),Scheduled,10:15,Departures,1,10:15,Newark (EWR),2023-01-11
+British Airways,BA501,Lisbon (LIS),Scheduled,10:45,Departures,1,10:45,Heathrow (LHR),2023-01-11
+American Airlines,AA6575,Lisbon (LIS),Scheduled,10:45,Departures,1,10:45,Heathrow (LHR),2023-01-11
+Finnair,AY5981,Lisbon (LIS),Scheduled,10:45,Departures,1,10:45,Heathrow (LHR),2023-01-11
+Cathay Pacific,CX7216,Lisbon (LIS),Scheduled,10:45,Departures,1,10:45,Heathrow (LHR),2023-01-11
+Qatar Airways,QR5916,Lisbon (LIS),Scheduled,10:45,Departures,1,10:45,Heathrow (LHR),2023-01-11
+TAP Air Portugal,TP1545,Lisbon (LIS),Scheduled,09:10,Departures,2,09:10,Praia (RAI),2023-01-11
+TAP Air Portugal,TP1557,Lisbon (LIS),Scheduled,09:10,Departures,2,09:10,Sao Vicente (VXE),2023-01-11
+Emirates,EK4834,Lisbon (LIS),Scheduled,09:10,Departures,2,09:10,Sao Vicente (VXE),2023-01-11
+Turkish Airlines,TK8142,Lisbon (LIS),Scheduled,09:10,Departures,2,09:10,Sao Vicente (VXE),2023-01-11
+TAP Air Portugal,TP1436,Lisbon (LIS),Scheduled,09:15,Departures,2,09:15,Casablanca Mohamed V (CMN),2023-01-11
+Beijing Capital Airlines,JD5416,Lisbon (LIS),Scheduled,09:15,Departures,2,09:15,Casablanca Mohamed V (CMN),2023-01-11
+Azores Airlines,S48302,Lisbon (LIS),Scheduled,09:15,Departures,2,09:15,Casablanca Mohamed V (CMN),2023-01-11
+TAP Air Portugal,TP1452,Lisbon (LIS),Scheduled,09:25,Departures,2,09:25,Marrakech (RAK),2023-01-11
+Azores Airlines,S48375,Lisbon (LIS),Scheduled,09:25,Departures,2,09:25,Marrakech (RAK),2023-01-11
+TAP Air Portugal,TP1827,Lisbon (LIS),Scheduled,09:25,Departures,2,09:25,Terceira Island (TER),2023-01-11
+Azul,AD7453,Lisbon (LIS),Scheduled,09:25,Departures,2,09:25,Terceira Island (TER),2023-01-11
+Azores Airlines,S48827,Lisbon (LIS),Scheduled,09:25,Departures,2,09:25,Terceira Island (TER),2023-01-11
+Ryanair,FR3961,Lisbon (LIS),Scheduled,09:30,Departures,2,09:30,Bergamo (BGY),2023-01-11
+TAP Air Portugal,TP1527,Lisbon (LIS),Scheduled,09:35,Departures,2,09:35,Accra (ACC),2023-01-11
+Transavia,HV7641,Lisbon (LIS),Scheduled,09:40,Departures,2,09:40,Orly (ORY),2023-01-11
+TAP Air Portugal,TP1907,Lisbon (LIS),Scheduled,09:45,Departures,2,09:45,Faro (FAO),2023-01-11
+Azul,AD7300,Lisbon (LIS),Scheduled,09:45,Departures,2,09:45,Faro (FAO),2023-01-11
+Emirates,EK4790,Lisbon (LIS),Scheduled,09:45,Departures,2,09:45,Faro (FAO),2023-01-11
+Beijing Capital Airlines,JD5408,Lisbon (LIS),Scheduled,09:45,Departures,2,09:45,Faro (FAO),2023-01-11
+Luxair,LG1979,Lisbon (LIS),Scheduled,09:45,Departures,2,09:45,Faro (FAO),2023-01-11
+Lufthansa,LH6966,Lisbon (LIS),Scheduled,09:45,Departures,2,09:45,Faro (FAO),2023-01-11
+Azores Airlines,S48421,Lisbon (LIS),Scheduled,09:45,Departures,2,09:45,Faro (FAO),2023-01-11
+United Airlines,UA6874,Lisbon (LIS),Scheduled,09:45,Departures,2,09:45,Faro (FAO),2023-01-11
+Ryanair,FR1990,Lisbon (LIS),Scheduled,09:50,Departures,2,09:50,Stansted (STN),2023-01-11
+TAP Air Portugal,TP1352,Lisbon (LIS),Scheduled,09:50,Departures,2,09:50,Heathrow (LHR),2023-01-11
+Aegean Airlines,A31734,Lisbon (LIS),Scheduled,09:50,Departures,2,09:50,Heathrow (LHR),2023-01-11
+Air Canada,AC2709,Lisbon (LIS),Scheduled,09:50,Departures,2,09:50,Heathrow (LHR),2023-01-11
+Azul,AD7327,Lisbon (LIS),Scheduled,09:50,Departures,2,09:50,Heathrow (LHR),2023-01-11
+Air India,AI7912,Lisbon (LIS),Scheduled,09:50,Departures,2,09:50,Heathrow (LHR),2023-01-11
+Ethiopian Airlines,ET1737,Lisbon (LIS),Scheduled,09:50,Departures,2,09:50,Heathrow (LHR),2023-01-11
+El Al,LY9056,Lisbon (LIS),Scheduled,09:50,Departures,2,09:50,Heathrow (LHR),2023-01-11
+Azores Airlines,S48616,Lisbon (LIS),Scheduled,09:50,Departures,2,09:50,Heathrow (LHR),2023-01-11
+United Airlines,UA6865,Lisbon (LIS),Scheduled,09:50,Departures,2,09:50,Heathrow (LHR),2023-01-11
+TAP Air Portugal,TP103,Lisbon (LIS),Scheduled,09:55,Departures,2,09:55,Belo Horizonte Tancredo Neves (CNF),2023-01-11
+Azul,AD7255,Lisbon (LIS),Scheduled,09:55,Departures,2,09:55,Belo Horizonte Tancredo Neves (CNF),2023-01-11
+Emirates,EK4804,Lisbon (LIS),Scheduled,09:55,Departures,2,09:55,Belo Horizonte Tancredo Neves (CNF),2023-01-11
+TAP Air Portugal,TP1479,Lisbon (LIS),Scheduled,09:55,Departures,2,09:55,Bissau (OXB),2023-01-11
+Azul,AD8751,Lisbon (LIS),Scheduled,10:00,Departures,2,10:00,Campinas Viracopos (VCP),2023-01-11
+TAP Air Portugal,TP5001,Lisbon (LIS),Scheduled,10:00,Departures,2,10:00,Campinas Viracopos (VCP),2023-01-11
+Delta Air Lines,DL273,Lisbon (LIS),Scheduled,10:00,Departures,2,10:00,New York JFK (JFK),2023-01-11
+Air France,AF3564,Lisbon (LIS),Scheduled,10:00,Departures,2,10:00,New York JFK (JFK),2023-01-11
+KLM,KL6098,Lisbon (LIS),Scheduled,10:00,Departures,2,10:00,New York JFK (JFK),2023-01-11
+Virgin Atlantic,VS3898,Lisbon (LIS),Scheduled,10:00,Departures,2,10:00,New York JFK (JFK),2023-01-11
+TAP Air Portugal,TP1924,Lisbon (LIS),Scheduled,10:00,Departures,2,10:00,Porto (OPO),2023-01-11
+Azul,AD7490,Lisbon (LIS),Scheduled,10:00,Departures,2,10:00,Porto (OPO),2023-01-11
+Lufthansa,LH6944,Lisbon (LIS),Scheduled,10:00,Departures,2,10:00,Porto (OPO),2023-01-11
+Azores Airlines,S48424,Lisbon (LIS),Scheduled,10:00,Departures,2,10:00,Porto (OPO),2023-01-11
+United Airlines,UA6895,Lisbon (LIS),Scheduled,10:00,Departures,2,10:00,Porto (OPO),2023-01-11
+Ryanair,FR5333,Lisbon (LIS),Scheduled,10:05,Departures,2,10:05,Dublin (DUB),2023-01-11
+TAP Air Portugal,TP223,Lisbon (LIS),Scheduled,10:15,Departures,2,10:15,Miami (MIA),2023-01-11
+United Airlines,UA65,Lisbon (LIS),Scheduled,10:15,Departures,2,10:15,Newark (EWR),2023-01-11
+Air Canada,AC5857,Lisbon (LIS),Scheduled,10:15,Departures,2,10:15,Newark (EWR),2023-01-11
+Lufthansa,LH7967,Lisbon (LIS),Scheduled,10:15,Departures,2,10:15,Newark (EWR),2023-01-11
+Brussels Airlines,SN9026,Lisbon (LIS),Scheduled,10:15,Departures,2,10:15,Newark (EWR),2023-01-11
+British Airways,BA501,Lisbon (LIS),Scheduled,10:45,Departures,2,10:45,Heathrow (LHR),2023-01-11
+American Airlines,AA6575,Lisbon (LIS),Scheduled,10:45,Departures,2,10:45,Heathrow (LHR),2023-01-11
+Finnair,AY5981,Lisbon (LIS),Scheduled,10:45,Departures,2,10:45,Heathrow (LHR),2023-01-11
+Cathay Pacific,CX7216,Lisbon (LIS),Scheduled,10:45,Departures,2,10:45,Heathrow (LHR),2023-01-11
+Qatar Airways,QR5916,Lisbon (LIS),Scheduled,10:45,Departures,2,10:45,Heathrow (LHR),2023-01-11
+TAP Air Portugal,TP1545,Lisbon (LIS),Scheduled,09:10,Departures,3,09:10,Praia (RAI),2023-01-11
+TAP Air Portugal,TP1557,Lisbon (LIS),Scheduled,09:10,Departures,3,09:10,Sao Vicente (VXE),2023-01-11
+Emirates,EK4834,Lisbon (LIS),Scheduled,09:10,Departures,3,09:10,Sao Vicente (VXE),2023-01-11
+Turkish Airlines,TK8142,Lisbon (LIS),Scheduled,09:10,Departures,3,09:10,Sao Vicente (VXE),2023-01-11
+TAP Air Portugal,TP1436,Lisbon (LIS),Scheduled,09:15,Departures,3,09:15,Casablanca Mohamed V (CMN),2023-01-11
+Beijing Capital Airlines,JD5416,Lisbon (LIS),Scheduled,09:15,Departures,3,09:15,Casablanca Mohamed V (CMN),2023-01-11
+Azores Airlines,S48302,Lisbon (LIS),Scheduled,09:15,Departures,3,09:15,Casablanca Mohamed V (CMN),2023-01-11
+TAP Air Portugal,TP1452,Lisbon (LIS),Scheduled,09:25,Departures,3,09:25,Marrakech (RAK),2023-01-11
+Azores Airlines,S48375,Lisbon (LIS),Scheduled,09:25,Departures,3,09:25,Marrakech (RAK),2023-01-11
+TAP Air Portugal,TP1827,Lisbon (LIS),Scheduled,09:25,Departures,3,09:25,Terceira Island (TER),2023-01-11
+Azul,AD7453,Lisbon (LIS),Scheduled,09:25,Departures,3,09:25,Terceira Island (TER),2023-01-11
+Azores Airlines,S48827,Lisbon (LIS),Scheduled,09:25,Departures,3,09:25,Terceira Island (TER),2023-01-11
+Ryanair,FR3961,Lisbon (LIS),Scheduled,09:30,Departures,3,09:30,Bergamo (BGY),2023-01-11
+TAP Air Portugal,TP1527,Lisbon (LIS),Scheduled,09:35,Departures,3,09:35,Accra (ACC),2023-01-11
+Transavia,HV7641,Lisbon (LIS),Scheduled,09:40,Departures,3,09:40,Orly (ORY),2023-01-11
+TAP Air Portugal,TP1907,Lisbon (LIS),Scheduled,09:45,Departures,3,09:45,Faro (FAO),2023-01-11
+Azul,AD7300,Lisbon (LIS),Scheduled,09:45,Departures,3,09:45,Faro (FAO),2023-01-11
+Emirates,EK4790,Lisbon (LIS),Scheduled,09:45,Departures,3,09:45,Faro (FAO),2023-01-11
+Beijing Capital Airlines,JD5408,Lisbon (LIS),Scheduled,09:45,Departures,3,09:45,Faro (FAO),2023-01-11
+Luxair,LG1979,Lisbon (LIS),Scheduled,09:45,Departures,3,09:45,Faro (FAO),2023-01-11
+Lufthansa,LH6966,Lisbon (LIS),Scheduled,09:45,Departures,3,09:45,Faro (FAO),2023-01-11
+Azores Airlines,S48421,Lisbon (LIS),Scheduled,09:45,Departures,3,09:45,Faro (FAO),2023-01-11
+United Airlines,UA6874,Lisbon (LIS),Scheduled,09:45,Departures,3,09:45,Faro (FAO),2023-01-11
+Ryanair,FR1990,Lisbon (LIS),Scheduled,09:50,Departures,3,09:50,Stansted (STN),2023-01-11
+TAP Air Portugal,TP1352,Lisbon (LIS),Scheduled,09:50,Departures,3,09:50,Heathrow (LHR),2023-01-11
+Aegean Airlines,A31734,Lisbon (LIS),Scheduled,09:50,Departures,3,09:50,Heathrow (LHR),2023-01-11
+Air Canada,AC2709,Lisbon (LIS),Scheduled,09:50,Departures,3,09:50,Heathrow (LHR),2023-01-11
+Azul,AD7327,Lisbon (LIS),Scheduled,09:50,Departures,3,09:50,Heathrow (LHR),2023-01-11
+Air India,AI7912,Lisbon (LIS),Scheduled,09:50,Departures,3,09:50,Heathrow (LHR),2023-01-11
+Ethiopian Airlines,ET1737,Lisbon (LIS),Scheduled,09:50,Departures,3,09:50,Heathrow (LHR),2023-01-11
+El Al,LY9056,Lisbon (LIS),Scheduled,09:50,Departures,3,09:50,Heathrow (LHR),2023-01-11
+Azores Airlines,S48616,Lisbon (LIS),Scheduled,09:50,Departures,3,09:50,Heathrow (LHR),2023-01-11
+United Airlines,UA6865,Lisbon (LIS),Scheduled,09:50,Departures,3,09:50,Heathrow (LHR),2023-01-11
+TAP Air Portugal,TP103,Lisbon (LIS),Scheduled,09:55,Departures,3,09:55,Belo Horizonte Tancredo Neves (CNF),2023-01-11
+Azul,AD7255,Lisbon (LIS),Scheduled,09:55,Departures,3,09:55,Belo Horizonte Tancredo Neves (CNF),2023-01-11
+Emirates,EK4804,Lisbon (LIS),Scheduled,09:55,Departures,3,09:55,Belo Horizonte Tancredo Neves (CNF),2023-01-11
+TAP Air Portugal,TP1479,Lisbon (LIS),Scheduled,09:55,Departures,3,09:55,Bissau (OXB),2023-01-11
+Azul,AD8751,Lisbon (LIS),Scheduled,10:00,Departures,3,10:00,Campinas Viracopos (VCP),2023-01-11
+TAP Air Portugal,TP5001,Lisbon (LIS),Scheduled,10:00,Departures,3,10:00,Campinas Viracopos (VCP),2023-01-11
+Delta Air Lines,DL273,Lisbon (LIS),Scheduled,10:00,Departures,3,10:00,New York JFK (JFK),2023-01-11
+Air France,AF3564,Lisbon (LIS),Scheduled,10:00,Departures,3,10:00,New York JFK (JFK),2023-01-11
+KLM,KL6098,Lisbon (LIS),Scheduled,10:00,Departures,3,10:00,New York JFK (JFK),2023-01-11
+Virgin Atlantic,VS3898,Lisbon (LIS),Scheduled,10:00,Departures,3,10:00,New York JFK (JFK),2023-01-11
+TAP Air Portugal,TP1924,Lisbon (LIS),Scheduled,10:00,Departures,3,10:00,Porto (OPO),2023-01-11
+Azul,AD7490,Lisbon (LIS),Scheduled,10:00,Departures,3,10:00,Porto (OPO),2023-01-11
+Lufthansa,LH6944,Lisbon (LIS),Scheduled,10:00,Departures,3,10:00,Porto (OPO),2023-01-11
+Azores Airlines,S48424,Lisbon (LIS),Scheduled,10:00,Departures,3,10:00,Porto (OPO),2023-01-11
+United Airlines,UA6895,Lisbon (LIS),Scheduled,10:00,Departures,3,10:00,Porto (OPO),2023-01-11
+Ryanair,FR5333,Lisbon (LIS),Scheduled,10:05,Departures,3,10:05,Dublin (DUB),2023-01-11
+TAP Air Portugal,TP223,Lisbon (LIS),Scheduled,10:15,Departures,3,10:15,Miami (MIA),2023-01-11
+United Airlines,UA65,Lisbon (LIS),Scheduled,10:15,Departures,3,10:15,Newark (EWR),2023-01-11
+Air Canada,AC5857,Lisbon (LIS),Scheduled,10:15,Departures,3,10:15,Newark (EWR),2023-01-11
+Lufthansa,LH7967,Lisbon (LIS),Scheduled,10:15,Departures,3,10:15,Newark (EWR),2023-01-11
+Brussels Airlines,SN9026,Lisbon (LIS),Scheduled,10:15,Departures,3,10:15,Newark (EWR),2023-01-11
+British Airways,BA501,Lisbon (LIS),Scheduled,10:45,Departures,3,10:45,Heathrow (LHR),2023-01-11
+American Airlines,AA6575,Lisbon (LIS),Scheduled,10:45,Departures,3,10:45,Heathrow (LHR),2023-01-11
+Finnair,AY5981,Lisbon (LIS),Scheduled,10:45,Departures,3,10:45,Heathrow (LHR),2023-01-11
+Cathay Pacific,CX7216,Lisbon (LIS),Scheduled,10:45,Departures,3,10:45,Heathrow (LHR),2023-01-11
+Qatar Airways,QR5916,Lisbon (LIS),Scheduled,10:45,Departures,3,10:45,Heathrow (LHR),2023-01-11
+TAP Air Portugal,TP1545,Lisbon (LIS),Scheduled,09:10,Departures,4,09:10,Praia (RAI),2023-01-11
+TAP Air Portugal,TP1557,Lisbon (LIS),Scheduled,09:10,Departures,4,09:10,Sao Vicente (VXE),2023-01-11
+Emirates,EK4834,Lisbon (LIS),Scheduled,09:10,Departures,4,09:10,Sao Vicente (VXE),2023-01-11
+Turkish Airlines,TK8142,Lisbon (LIS),Scheduled,09:10,Departures,4,09:10,Sao Vicente (VXE),2023-01-11
+TAP Air Portugal,TP1436,Lisbon (LIS),Scheduled,09:15,Departures,4,09:15,Casablanca Mohamed V (CMN),2023-01-11
+Beijing Capital Airlines,JD5416,Lisbon (LIS),Scheduled,09:15,Departures,4,09:15,Casablanca Mohamed V (CMN),2023-01-11
+Azores Airlines,S48302,Lisbon (LIS),Scheduled,09:15,Departures,4,09:15,Casablanca Mohamed V (CMN),2023-01-11
+TAP Air Portugal,TP1452,Lisbon (LIS),Scheduled,09:25,Departures,4,09:25,Marrakech (RAK),2023-01-11
+Azores Airlines,S48375,Lisbon (LIS),Scheduled,09:25,Departures,4,09:25,Marrakech (RAK),2023-01-11
+TAP Air Portugal,TP1827,Lisbon (LIS),Scheduled,09:25,Departures,4,09:25,Terceira Island (TER),2023-01-11
+Azul,AD7453,Lisbon (LIS),Scheduled,09:25,Departures,4,09:25,Terceira Island (TER),2023-01-11
+Azores Airlines,S48827,Lisbon (LIS),Scheduled,09:25,Departures,4,09:25,Terceira Island (TER),2023-01-11
+Ryanair,FR3961,Lisbon (LIS),Scheduled,09:30,Departures,4,09:30,Bergamo (BGY),2023-01-11
+TAP Air Portugal,TP1527,Lisbon (LIS),Scheduled,09:35,Departures,4,09:35,Accra (ACC),2023-01-11
+Transavia,HV7641,Lisbon (LIS),Scheduled,09:40,Departures,4,09:40,Orly (ORY),2023-01-11
+TAP Air Portugal,TP1907,Lisbon (LIS),Scheduled,09:45,Departures,4,09:45,Faro (FAO),2023-01-11
+Azul,AD7300,Lisbon (LIS),Scheduled,09:45,Departures,4,09:45,Faro (FAO),2023-01-11
+Emirates,EK4790,Lisbon (LIS),Scheduled,09:45,Departures,4,09:45,Faro (FAO),2023-01-11
+Beijing Capital Airlines,JD5408,Lisbon (LIS),Scheduled,09:45,Departures,4,09:45,Faro (FAO),2023-01-11
+Luxair,LG1979,Lisbon (LIS),Scheduled,09:45,Departures,4,09:45,Faro (FAO),2023-01-11
+Lufthansa,LH6966,Lisbon (LIS),Scheduled,09:45,Departures,4,09:45,Faro (FAO),2023-01-11
+Azores Airlines,S48421,Lisbon (LIS),Scheduled,09:45,Departures,4,09:45,Faro (FAO),2023-01-11
+United Airlines,UA6874,Lisbon (LIS),Scheduled,09:45,Departures,4,09:45,Faro (FAO),2023-01-11
+Ryanair,FR1990,Lisbon (LIS),Scheduled,09:50,Departures,4,09:50,Stansted (STN),2023-01-11
+TAP Air Portugal,TP1352,Lisbon (LIS),Scheduled,09:50,Departures,4,09:50,Heathrow (LHR),2023-01-11
+Aegean Airlines,A31734,Lisbon (LIS),Scheduled,09:50,Departures,4,09:50,Heathrow (LHR),2023-01-11
+Air Canada,AC2709,Lisbon (LIS),Scheduled,09:50,Departures,4,09:50,Heathrow (LHR),2023-01-11
+Azul,AD7327,Lisbon (LIS),Scheduled,09:50,Departures,4,09:50,Heathrow (LHR),2023-01-11
+Air India,AI7912,Lisbon (LIS),Scheduled,09:50,Departures,4,09:50,Heathrow (LHR),2023-01-11
+Ethiopian Airlines,ET1737,Lisbon (LIS),Scheduled,09:50,Departures,4,09:50,Heathrow (LHR),2023-01-11
+El Al,LY9056,Lisbon (LIS),Scheduled,09:50,Departures,4,09:50,Heathrow (LHR),2023-01-11
+Azores Airlines,S48616,Lisbon (LIS),Scheduled,09:50,Departures,4,09:50,Heathrow (LHR),2023-01-11
+United Airlines,UA6865,Lisbon (LIS),Scheduled,09:50,Departures,4,09:50,Heathrow (LHR),2023-01-11
+TAP Air Portugal,TP103,Lisbon (LIS),Scheduled,09:55,Departures,4,09:55,Belo Horizonte Tancredo Neves (CNF),2023-01-11
+Azul,AD7255,Lisbon (LIS),Scheduled,09:55,Departures,4,09:55,Belo Horizonte Tancredo Neves (CNF),2023-01-11
+Emirates,EK4804,Lisbon (LIS),Scheduled,09:55,Departures,4,09:55,Belo Horizonte Tancredo Neves (CNF),2023-01-11
+TAP Air Portugal,TP1479,Lisbon (LIS),Scheduled,09:55,Departures,4,09:55,Bissau (OXB),2023-01-11
+Azul,AD8751,Lisbon (LIS),Scheduled,10:00,Departures,4,10:00,Campinas Viracopos (VCP),2023-01-11
+TAP Air Portugal,TP5001,Lisbon (LIS),Scheduled,10:00,Departures,4,10:00,Campinas Viracopos (VCP),2023-01-11
+Delta Air Lines,DL273,Lisbon (LIS),Scheduled,10:00,Departures,4,10:00,New York JFK (JFK),2023-01-11
+Air France,AF3564,Lisbon (LIS),Scheduled,10:00,Departures,4,10:00,New York JFK (JFK),2023-01-11
+KLM,KL6098,Lisbon (LIS),Scheduled,10:00,Departures,4,10:00,New York JFK (JFK),2023-01-11
+Virgin Atlantic,VS3898,Lisbon (LIS),Scheduled,10:00,Departures,4,10:00,New York JFK (JFK),2023-01-11
+TAP Air Portugal,TP1924,Lisbon (LIS),Scheduled,10:00,Departures,4,10:00,Porto (OPO),2023-01-11
+Azul,AD7490,Lisbon (LIS),Scheduled,10:00,Departures,4,10:00,Porto (OPO),2023-01-11
+Lufthansa,LH6944,Lisbon (LIS),Scheduled,10:00,Departures,4,10:00,Porto (OPO),2023-01-11
+Azores Airlines,S48424,Lisbon (LIS),Scheduled,10:00,Departures,4,10:00,Porto (OPO),2023-01-11
+United Airlines,UA6895,Lisbon (LIS),Scheduled,10:00,Departures,4,10:00,Porto (OPO),2023-01-11
+Ryanair,FR5333,Lisbon (LIS),Scheduled,10:05,Departures,4,10:05,Dublin (DUB),2023-01-11
+TAP Air Portugal,TP223,Lisbon (LIS),Scheduled,10:15,Departures,4,10:15,Miami (MIA),2023-01-11
+United Airlines,UA65,Lisbon (LIS),Scheduled,10:15,Departures,4,10:15,Newark (EWR),2023-01-11
+Air Canada,AC5857,Lisbon (LIS),Scheduled,10:15,Departures,4,10:15,Newark (EWR),2023-01-11
+Lufthansa,LH7967,Lisbon (LIS),Scheduled,10:15,Departures,4,10:15,Newark (EWR),2023-01-11
+Brussels Airlines,SN9026,Lisbon (LIS),Scheduled,10:15,Departures,4,10:15,Newark (EWR),2023-01-11
+British Airways,BA501,Lisbon (LIS),Scheduled,10:45,Departures,4,10:45,Heathrow (LHR),2023-01-11
+American Airlines,AA6575,Lisbon (LIS),Scheduled,10:45,Departures,4,10:45,Heathrow (LHR),2023-01-11
+Finnair,AY5981,Lisbon (LIS),Scheduled,10:45,Departures,4,10:45,Heathrow (LHR),2023-01-11
+Cathay Pacific,CX7216,Lisbon (LIS),Scheduled,10:45,Departures,4,10:45,Heathrow (LHR),2023-01-11
+Qatar Airways,QR5916,Lisbon (LIS),Scheduled,10:45,Departures,4,10:45,Heathrow (LHR),2023-01-11
+TAP Air Portugal,TP1545,Lisbon (LIS),Scheduled,09:10,Departures,5,09:10,Praia (RAI),2023-01-11
+TAP Air Portugal,TP1557,Lisbon (LIS),Scheduled,09:10,Departures,5,09:10,Sao Vicente (VXE),2023-01-11
+Emirates,EK4834,Lisbon (LIS),Scheduled,09:10,Departures,5,09:10,Sao Vicente (VXE),2023-01-11
+Turkish Airlines,TK8142,Lisbon (LIS),Scheduled,09:10,Departures,5,09:10,Sao Vicente (VXE),2023-01-11
+TAP Air Portugal,TP1436,Lisbon (LIS),Scheduled,09:15,Departures,5,09:15,Casablanca Mohamed V (CMN),2023-01-11
+Beijing Capital Airlines,JD5416,Lisbon (LIS),Scheduled,09:15,Departures,5,09:15,Casablanca Mohamed V (CMN),2023-01-11
+Azores Airlines,S48302,Lisbon (LIS),Scheduled,09:15,Departures,5,09:15,Casablanca Mohamed V (CMN),2023-01-11
+TAP Air Portugal,TP1452,Lisbon (LIS),Scheduled,09:25,Departures,5,09:25,Marrakech (RAK),2023-01-11
+Azores Airlines,S48375,Lisbon (LIS),Scheduled,09:25,Departures,5,09:25,Marrakech (RAK),2023-01-11
+TAP Air Portugal,TP1827,Lisbon (LIS),Scheduled,09:25,Departures,5,09:25,Terceira Island (TER),2023-01-11
+Azul,AD7453,Lisbon (LIS),Scheduled,09:25,Departures,5,09:25,Terceira Island (TER),2023-01-11
+Azores Airlines,S48827,Lisbon (LIS),Scheduled,09:25,Departures,5,09:25,Terceira Island (TER),2023-01-11
+Ryanair,FR3961,Lisbon (LIS),Scheduled,09:30,Departures,5,09:30,Bergamo (BGY),2023-01-11
+TAP Air Portugal,TP1527,Lisbon (LIS),Scheduled,09:35,Departures,5,09:35,Accra (ACC),2023-01-11
+Transavia,HV7641,Lisbon (LIS),Scheduled,09:40,Departures,5,09:40,Orly (ORY),2023-01-11
+TAP Air Portugal,TP1907,Lisbon (LIS),Scheduled,09:45,Departures,5,09:45,Faro (FAO),2023-01-11
+Azul,AD7300,Lisbon (LIS),Scheduled,09:45,Departures,5,09:45,Faro (FAO),2023-01-11
+Emirates,EK4790,Lisbon (LIS),Scheduled,09:45,Departures,5,09:45,Faro (FAO),2023-01-11
+Beijing Capital Airlines,JD5408,Lisbon (LIS),Scheduled,09:45,Departures,5,09:45,Faro (FAO),2023-01-11
+Luxair,LG1979,Lisbon (LIS),Scheduled,09:45,Departures,5,09:45,Faro (FAO),2023-01-11
+Lufthansa,LH6966,Lisbon (LIS),Scheduled,09:45,Departures,5,09:45,Faro (FAO),2023-01-11
+Azores Airlines,S48421,Lisbon (LIS),Scheduled,09:45,Departures,5,09:45,Faro (FAO),2023-01-11
+United Airlines,UA6874,Lisbon (LIS),Scheduled,09:45,Departures,5,09:45,Faro (FAO),2023-01-11
+Ryanair,FR1990,Lisbon (LIS),Scheduled,09:50,Departures,5,09:50,Stansted (STN),2023-01-11
+TAP Air Portugal,TP1352,Lisbon (LIS),Scheduled,09:50,Departures,5,09:50,Heathrow (LHR),2023-01-11
+Aegean Airlines,A31734,Lisbon (LIS),Scheduled,09:50,Departures,5,09:50,Heathrow (LHR),2023-01-11
+Air Canada,AC2709,Lisbon (LIS),Scheduled,09:50,Departures,5,09:50,Heathrow (LHR),2023-01-11
+Azul,AD7327,Lisbon (LIS),Scheduled,09:50,Departures,5,09:50,Heathrow (LHR),2023-01-11
+Air India,AI7912,Lisbon (LIS),Scheduled,09:50,Departures,5,09:50,Heathrow (LHR),2023-01-11
+Ethiopian Airlines,ET1737,Lisbon (LIS),Scheduled,09:50,Departures,5,09:50,Heathrow (LHR),2023-01-11
+El Al,LY9056,Lisbon (LIS),Scheduled,09:50,Departures,5,09:50,Heathrow (LHR),2023-01-11
+Azores Airlines,S48616,Lisbon (LIS),Scheduled,09:50,Departures,5,09:50,Heathrow (LHR),2023-01-11
+United Airlines,UA6865,Lisbon (LIS),Scheduled,09:50,Departures,5,09:50,Heathrow (LHR),2023-01-11
+TAP Air Portugal,TP103,Lisbon (LIS),Scheduled,09:55,Departures,5,09:55,Belo Horizonte Tancredo Neves (CNF),2023-01-11
+Azul,AD7255,Lisbon (LIS),Scheduled,09:55,Departures,5,09:55,Belo Horizonte Tancredo Neves (CNF),2023-01-11
+Emirates,EK4804,Lisbon (LIS),Scheduled,09:55,Departures,5,09:55,Belo Horizonte Tancredo Neves (CNF),2023-01-11
+TAP Air Portugal,TP1479,Lisbon (LIS),Scheduled,09:55,Departures,5,09:55,Bissau (OXB),2023-01-11
+Azul,AD8751,Lisbon (LIS),Scheduled,10:00,Departures,5,10:00,Campinas Viracopos (VCP),2023-01-11
+TAP Air Portugal,TP5001,Lisbon (LIS),Scheduled,10:00,Departures,5,10:00,Campinas Viracopos (VCP),2023-01-11
+Delta Air Lines,DL273,Lisbon (LIS),Scheduled,10:00,Departures,5,10:00,New York JFK (JFK),2023-01-11
+Air France,AF3564,Lisbon (LIS),Scheduled,10:00,Departures,5,10:00,New York JFK (JFK),2023-01-11
+KLM,KL6098,Lisbon (LIS),Scheduled,10:00,Departures,5,10:00,New York JFK (JFK),2023-01-11
+Virgin Atlantic,VS3898,Lisbon (LIS),Scheduled,10:00,Departures,5,10:00,New York JFK (JFK),2023-01-11
+TAP Air Portugal,TP1924,Lisbon (LIS),Scheduled,10:00,Departures,5,10:00,Porto (OPO),2023-01-11
+Azul,AD7490,Lisbon (LIS),Scheduled,10:00,Departures,5,10:00,Porto (OPO),2023-01-11
+Lufthansa,LH6944,Lisbon (LIS),Scheduled,10:00,Departures,5,10:00,Porto (OPO),2023-01-11
+Azores Airlines,S48424,Lisbon (LIS),Scheduled,10:00,Departures,5,10:00,Porto (OPO),2023-01-11
+United Airlines,UA6895,Lisbon (LIS),Scheduled,10:00,Departures,5,10:00,Porto (OPO),2023-01-11
+Ryanair,FR5333,Lisbon (LIS),Scheduled,10:05,Departures,5,10:05,Dublin (DUB),2023-01-11
+TAP Air Portugal,TP223,Lisbon (LIS),Scheduled,10:15,Departures,5,10:15,Miami (MIA),2023-01-11
+United Airlines,UA65,Lisbon (LIS),Scheduled,10:15,Departures,5,10:15,Newark (EWR),2023-01-11
+Air Canada,AC5857,Lisbon (LIS),Scheduled,10:15,Departures,5,10:15,Newark (EWR),2023-01-11
+Lufthansa,LH7967,Lisbon (LIS),Scheduled,10:15,Departures,5,10:15,Newark (EWR),2023-01-11
+Brussels Airlines,SN9026,Lisbon (LIS),Scheduled,10:15,Departures,5,10:15,Newark (EWR),2023-01-11
+British Airways,BA501,Lisbon (LIS),Scheduled,10:45,Departures,5,10:45,Heathrow (LHR),2023-01-11
+American Airlines,AA6575,Lisbon (LIS),Scheduled,10:45,Departures,5,10:45,Heathrow (LHR),2023-01-11
+Finnair,AY5981,Lisbon (LIS),Scheduled,10:45,Departures,5,10:45,Heathrow (LHR),2023-01-11
+Cathay Pacific,CX7216,Lisbon (LIS),Scheduled,10:45,Departures,5,10:45,Heathrow (LHR),2023-01-11
+Qatar Airways,QR5916,Lisbon (LIS),Scheduled,10:45,Departures,5,10:45,Heathrow (LHR),2023-01-11
+TAP Air Portugal,TP1545,Lisbon (LIS),Scheduled,09:10,Departures,6,09:10,Praia (RAI),2023-01-11
+TAP Air Portugal,TP1557,Lisbon (LIS),Scheduled,09:10,Departures,6,09:10,Sao Vicente (VXE),2023-01-11
+Emirates,EK4834,Lisbon (LIS),Scheduled,09:10,Departures,6,09:10,Sao Vicente (VXE),2023-01-11
+Turkish Airlines,TK8142,Lisbon (LIS),Scheduled,09:10,Departures,6,09:10,Sao Vicente (VXE),2023-01-11
+TAP Air Portugal,TP1436,Lisbon (LIS),Scheduled,09:15,Departures,6,09:15,Casablanca Mohamed V (CMN),2023-01-11
+Beijing Capital Airlines,JD5416,Lisbon (LIS),Scheduled,09:15,Departures,6,09:15,Casablanca Mohamed V (CMN),2023-01-11
+Azores Airlines,S48302,Lisbon (LIS),Scheduled,09:15,Departures,6,09:15,Casablanca Mohamed V (CMN),2023-01-11
+TAP Air Portugal,TP1452,Lisbon (LIS),Scheduled,09:25,Departures,6,09:25,Marrakech (RAK),2023-01-11
+Azores Airlines,S48375,Lisbon (LIS),Scheduled,09:25,Departures,6,09:25,Marrakech (RAK),2023-01-11
+TAP Air Portugal,TP1827,Lisbon (LIS),Scheduled,09:25,Departures,6,09:25,Terceira Island (TER),2023-01-11
+Azul,AD7453,Lisbon (LIS),Scheduled,09:25,Departures,6,09:25,Terceira Island (TER),2023-01-11
+Azores Airlines,S48827,Lisbon (LIS),Scheduled,09:25,Departures,6,09:25,Terceira Island (TER),2023-01-11
+Ryanair,FR3961,Lisbon (LIS),Scheduled,09:30,Departures,6,09:30,Bergamo (BGY),2023-01-11
+TAP Air Portugal,TP1527,Lisbon (LIS),Scheduled,09:35,Departures,6,09:35,Accra (ACC),2023-01-11
+Transavia,HV7641,Lisbon (LIS),Scheduled,09:40,Departures,6,09:40,Orly (ORY),2023-01-11
+TAP Air Portugal,TP1907,Lisbon (LIS),Scheduled,09:45,Departures,6,09:45,Faro (FAO),2023-01-11
+Azul,AD7300,Lisbon (LIS),Scheduled,09:45,Departures,6,09:45,Faro (FAO),2023-01-11
+Emirates,EK4790,Lisbon (LIS),Scheduled,09:45,Departures,6,09:45,Faro (FAO),2023-01-11
+Beijing Capital Airlines,JD5408,Lisbon (LIS),Scheduled,09:45,Departures,6,09:45,Faro (FAO),2023-01-11
+Luxair,LG1979,Lisbon (LIS),Scheduled,09:45,Departures,6,09:45,Faro (FAO),2023-01-11
+Lufthansa,LH6966,Lisbon (LIS),Scheduled,09:45,Departures,6,09:45,Faro (FAO),2023-01-11
+Azores Airlines,S48421,Lisbon (LIS),Scheduled,09:45,Departures,6,09:45,Faro (FAO),2023-01-11
+United Airlines,UA6874,Lisbon (LIS),Scheduled,09:45,Departures,6,09:45,Faro (FAO),2023-01-11
+Ryanair,FR1990,Lisbon (LIS),Scheduled,09:50,Departures,6,09:50,Stansted (STN),2023-01-11
+TAP Air Portugal,TP1352,Lisbon (LIS),Scheduled,09:50,Departures,6,09:50,Heathrow (LHR),2023-01-11
+Aegean Airlines,A31734,Lisbon (LIS),Scheduled,09:50,Departures,6,09:50,Heathrow (LHR),2023-01-11
+Air Canada,AC2709,Lisbon (LIS),Scheduled,09:50,Departures,6,09:50,Heathrow (LHR),2023-01-11
+Azul,AD7327,Lisbon (LIS),Scheduled,09:50,Departures,6,09:50,Heathrow (LHR),2023-01-11
+Air India,AI7912,Lisbon (LIS),Scheduled,09:50,Departures,6,09:50,Heathrow (LHR),2023-01-11
+Ethiopian Airlines,ET1737,Lisbon (LIS),Scheduled,09:50,Departures,6,09:50,Heathrow (LHR),2023-01-11
+El Al,LY9056,Lisbon (LIS),Scheduled,09:50,Departures,6,09:50,Heathrow (LHR),2023-01-11
+Azores Airlines,S48616,Lisbon (LIS),Scheduled,09:50,Departures,6,09:50,Heathrow (LHR),2023-01-11
+United Airlines,UA6865,Lisbon (LIS),Scheduled,09:50,Departures,6,09:50,Heathrow (LHR),2023-01-11
+TAP Air Portugal,TP103,Lisbon (LIS),Scheduled,09:55,Departures,6,09:55,Belo Horizonte Tancredo Neves (CNF),2023-01-11
+Azul,AD7255,Lisbon (LIS),Scheduled,09:55,Departures,6,09:55,Belo Horizonte Tancredo Neves (CNF),2023-01-11
+Emirates,EK4804,Lisbon (LIS),Scheduled,09:55,Departures,6,09:55,Belo Horizonte Tancredo Neves (CNF),2023-01-11
+TAP Air Portugal,TP1479,Lisbon (LIS),Scheduled,09:55,Departures,6,09:55,Bissau (OXB),2023-01-11
+Azul,AD8751,Lisbon (LIS),Scheduled,10:00,Departures,6,10:00,Campinas Viracopos (VCP),2023-01-11
+TAP Air Portugal,TP5001,Lisbon (LIS),Scheduled,10:00,Departures,6,10:00,Campinas Viracopos (VCP),2023-01-11
+Delta Air Lines,DL273,Lisbon (LIS),Scheduled,10:00,Departures,6,10:00,New York JFK (JFK),2023-01-11
+Air France,AF3564,Lisbon (LIS),Scheduled,10:00,Departures,6,10:00,New York JFK (JFK),2023-01-11
+KLM,KL6098,Lisbon (LIS),Scheduled,10:00,Departures,6,10:00,New York JFK (JFK),2023-01-11
+Virgin Atlantic,VS3898,Lisbon (LIS),Scheduled,10:00,Departures,6,10:00,New York JFK (JFK),2023-01-11
+TAP Air Portugal,TP1924,Lisbon (LIS),Scheduled,10:00,Departures,6,10:00,Porto (OPO),2023-01-11
+Azul,AD7490,Lisbon (LIS),Scheduled,10:00,Departures,6,10:00,Porto (OPO),2023-01-11
+Lufthansa,LH6944,Lisbon (LIS),Scheduled,10:00,Departures,6,10:00,Porto (OPO),2023-01-11
+Azores Airlines,S48424,Lisbon (LIS),Scheduled,10:00,Departures,6,10:00,Porto (OPO),2023-01-11
+United Airlines,UA6895,Lisbon (LIS),Scheduled,10:00,Departures,6,10:00,Porto (OPO),2023-01-11
+Ryanair,FR5333,Lisbon (LIS),Scheduled,10:05,Departures,6,10:05,Dublin (DUB),2023-01-11
+TAP Air Portugal,TP223,Lisbon (LIS),Scheduled,10:15,Departures,6,10:15,Miami (MIA),2023-01-11
+United Airlines,UA65,Lisbon (LIS),Scheduled,10:15,Departures,6,10:15,Newark (EWR),2023-01-11
+Air Canada,AC5857,Lisbon (LIS),Scheduled,10:15,Departures,6,10:15,Newark (EWR),2023-01-11
+Lufthansa,LH7967,Lisbon (LIS),Scheduled,10:15,Departures,6,10:15,Newark (EWR),2023-01-11
+Brussels Airlines,SN9026,Lisbon (LIS),Scheduled,10:15,Departures,6,10:15,Newark (EWR),2023-01-11
+British Airways,BA501,Lisbon (LIS),Scheduled,10:45,Departures,6,10:45,Heathrow (LHR),2023-01-11
+American Airlines,AA6575,Lisbon (LIS),Scheduled,10:45,Departures,6,10:45,Heathrow (LHR),2023-01-11
+Finnair,AY5981,Lisbon (LIS),Scheduled,10:45,Departures,6,10:45,Heathrow (LHR),2023-01-11
+Cathay Pacific,CX7216,Lisbon (LIS),Scheduled,10:45,Departures,6,10:45,Heathrow (LHR),2023-01-11
+Qatar Airways,QR5916,Lisbon (LIS),Scheduled,10:45,Departures,6,10:45,Heathrow (LHR),2023-01-11
+TAP Air Portugal,TP1545,Lisbon (LIS),Scheduled,09:10,Departures,7,09:10,Praia (RAI),2023-01-11
+TAP Air Portugal,TP1557,Lisbon (LIS),Scheduled,09:10,Departures,7,09:10,Sao Vicente (VXE),2023-01-11
+Emirates,EK4834,Lisbon (LIS),Scheduled,09:10,Departures,7,09:10,Sao Vicente (VXE),2023-01-11
+Turkish Airlines,TK8142,Lisbon (LIS),Scheduled,09:10,Departures,7,09:10,Sao Vicente (VXE),2023-01-11
+TAP Air Portugal,TP1436,Lisbon (LIS),Scheduled,09:15,Departures,7,09:15,Casablanca Mohamed V (CMN),2023-01-11
+Beijing Capital Airlines,JD5416,Lisbon (LIS),Scheduled,09:15,Departures,7,09:15,Casablanca Mohamed V (CMN),2023-01-11
+Azores Airlines,S48302,Lisbon (LIS),Scheduled,09:15,Departures,7,09:15,Casablanca Mohamed V (CMN),2023-01-11
+TAP Air Portugal,TP1452,Lisbon (LIS),Scheduled,09:25,Departures,7,09:25,Marrakech (RAK),2023-01-11
+Azores Airlines,S48375,Lisbon (LIS),Scheduled,09:25,Departures,7,09:25,Marrakech (RAK),2023-01-11
+TAP Air Portugal,TP1827,Lisbon (LIS),Scheduled,09:25,Departures,7,09:25,Terceira Island (TER),2023-01-11
+Azul,AD7453,Lisbon (LIS),Scheduled,09:25,Departures,7,09:25,Terceira Island (TER),2023-01-11
+Azores Airlines,S48827,Lisbon (LIS),Scheduled,09:25,Departures,7,09:25,Terceira Island (TER),2023-01-11
+Ryanair,FR3961,Lisbon (LIS),Scheduled,09:30,Departures,7,09:30,Bergamo (BGY),2023-01-11
+TAP Air Portugal,TP1527,Lisbon (LIS),Scheduled,09:35,Departures,7,09:35,Accra (ACC),2023-01-11
+Transavia,HV7641,Lisbon (LIS),Scheduled,09:40,Departures,7,09:40,Orly (ORY),2023-01-11
+TAP Air Portugal,TP1907,Lisbon (LIS),Scheduled,09:45,Departures,7,09:45,Faro (FAO),2023-01-11
+Azul,AD7300,Lisbon (LIS),Scheduled,09:45,Departures,7,09:45,Faro (FAO),2023-01-11
+Emirates,EK4790,Lisbon (LIS),Scheduled,09:45,Departures,7,09:45,Faro (FAO),2023-01-11
+Beijing Capital Airlines,JD5408,Lisbon (LIS),Scheduled,09:45,Departures,7,09:45,Faro (FAO),2023-01-11
+Luxair,LG1979,Lisbon (LIS),Scheduled,09:45,Departures,7,09:45,Faro (FAO),2023-01-11
+Lufthansa,LH6966,Lisbon (LIS),Scheduled,09:45,Departures,7,09:45,Faro (FAO),2023-01-11
+Azores Airlines,S48421,Lisbon (LIS),Scheduled,09:45,Departures,7,09:45,Faro (FAO),2023-01-11
+United Airlines,UA6874,Lisbon (LIS),Scheduled,09:45,Departures,7,09:45,Faro (FAO),2023-01-11
+Ryanair,FR1990,Lisbon (LIS),Scheduled,09:50,Departures,7,09:50,Stansted (STN),2023-01-11
+TAP Air Portugal,TP1352,Lisbon (LIS),Scheduled,09:50,Departures,7,09:50,Heathrow (LHR),2023-01-11
+Aegean Airlines,A31734,Lisbon (LIS),Scheduled,09:50,Departures,7,09:50,Heathrow (LHR),2023-01-11
+Air Canada,AC2709,Lisbon (LIS),Scheduled,09:50,Departures,7,09:50,Heathrow (LHR),2023-01-11
+Azul,AD7327,Lisbon (LIS),Scheduled,09:50,Departures,7,09:50,Heathrow (LHR),2023-01-11
+Air India,AI7912,Lisbon (LIS),Scheduled,09:50,Departures,7,09:50,Heathrow (LHR),2023-01-11
+Ethiopian Airlines,ET1737,Lisbon (LIS),Scheduled,09:50,Departures,7,09:50,Heathrow (LHR),2023-01-11
+El Al,LY9056,Lisbon (LIS),Scheduled,09:50,Departures,7,09:50,Heathrow (LHR),2023-01-11
+Azores Airlines,S48616,Lisbon (LIS),Scheduled,09:50,Departures,7,09:50,Heathrow (LHR),2023-01-11
+United Airlines,UA6865,Lisbon (LIS),Scheduled,09:50,Departures,7,09:50,Heathrow (LHR),2023-01-11
+TAP Air Portugal,TP103,Lisbon (LIS),Scheduled,09:55,Departures,7,09:55,Belo Horizonte Tancredo Neves (CNF),2023-01-11
+Azul,AD7255,Lisbon (LIS),Scheduled,09:55,Departures,7,09:55,Belo Horizonte Tancredo Neves (CNF),2023-01-11
+Emirates,EK4804,Lisbon (LIS),Scheduled,09:55,Departures,7,09:55,Belo Horizonte Tancredo Neves (CNF),2023-01-11
+TAP Air Portugal,TP1479,Lisbon (LIS),Scheduled,09:55,Departures,7,09:55,Bissau (OXB),2023-01-11
+Azul,AD8751,Lisbon (LIS),Scheduled,10:00,Departures,7,10:00,Campinas Viracopos (VCP),2023-01-11
+TAP Air Portugal,TP5001,Lisbon (LIS),Scheduled,10:00,Departures,7,10:00,Campinas Viracopos (VCP),2023-01-11
+Delta Air Lines,DL273,Lisbon (LIS),Scheduled,10:00,Departures,7,10:00,New York JFK (JFK),2023-01-11
+Air France,AF3564,Lisbon (LIS),Scheduled,10:00,Departures,7,10:00,New York JFK (JFK),2023-01-11
+KLM,KL6098,Lisbon (LIS),Scheduled,10:00,Departures,7,10:00,New York JFK (JFK),2023-01-11
+Virgin Atlantic,VS3898,Lisbon (LIS),Scheduled,10:00,Departures,7,10:00,New York JFK (JFK),2023-01-11
+TAP Air Portugal,TP1924,Lisbon (LIS),Scheduled,10:00,Departures,7,10:00,Porto (OPO),2023-01-11
+Azul,AD7490,Lisbon (LIS),Scheduled,10:00,Departures,7,10:00,Porto (OPO),2023-01-11
+Lufthansa,LH6944,Lisbon (LIS),Scheduled,10:00,Departures,7,10:00,Porto (OPO),2023-01-11
+Azores Airlines,S48424,Lisbon (LIS),Scheduled,10:00,Departures,7,10:00,Porto (OPO),2023-01-11
+United Airlines,UA6895,Lisbon (LIS),Scheduled,10:00,Departures,7,10:00,Porto (OPO),2023-01-11
+Ryanair,FR5333,Lisbon (LIS),Scheduled,10:05,Departures,7,10:05,Dublin (DUB),2023-01-11
+TAP Air Portugal,TP223,Lisbon (LIS),Scheduled,10:15,Departures,7,10:15,Miami (MIA),2023-01-11
+United Airlines,UA65,Lisbon (LIS),Scheduled,10:15,Departures,7,10:15,Newark (EWR),2023-01-11
+Air Canada,AC5857,Lisbon (LIS),Scheduled,10:15,Departures,7,10:15,Newark (EWR),2023-01-11
+Lufthansa,LH7967,Lisbon (LIS),Scheduled,10:15,Departures,7,10:15,Newark (EWR),2023-01-11
+Brussels Airlines,SN9026,Lisbon (LIS),Scheduled,10:15,Departures,7,10:15,Newark (EWR),2023-01-11
+British Airways,BA501,Lisbon (LIS),Scheduled,10:45,Departures,7,10:45,Heathrow (LHR),2023-01-11
+American Airlines,AA6575,Lisbon (LIS),Scheduled,10:45,Departures,7,10:45,Heathrow (LHR),2023-01-11
+Finnair,AY5981,Lisbon (LIS),Scheduled,10:45,Departures,7,10:45,Heathrow (LHR),2023-01-11
+Cathay Pacific,CX7216,Lisbon (LIS),Scheduled,10:45,Departures,7,10:45,Heathrow (LHR),2023-01-11
+Qatar Airways,QR5916,Lisbon (LIS),Scheduled,10:45,Departures,7,10:45,Heathrow (LHR),2023-01-11
+TAP Air Portugal,TP1545,Lisbon (LIS),Scheduled,09:10,Departures,8,09:10,Praia (RAI),2023-01-11
+TAP Air Portugal,TP1557,Lisbon (LIS),Scheduled,09:10,Departures,8,09:10,Sao Vicente (VXE),2023-01-11
+Emirates,EK4834,Lisbon (LIS),Scheduled,09:10,Departures,8,09:10,Sao Vicente (VXE),2023-01-11
+Turkish Airlines,TK8142,Lisbon (LIS),Scheduled,09:10,Departures,8,09:10,Sao Vicente (VXE),2023-01-11
+TAP Air Portugal,TP1436,Lisbon (LIS),Scheduled,09:15,Departures,8,09:15,Casablanca Mohamed V (CMN),2023-01-11
+Beijing Capital Airlines,JD5416,Lisbon (LIS),Scheduled,09:15,Departures,8,09:15,Casablanca Mohamed V (CMN),2023-01-11
+Azores Airlines,S48302,Lisbon (LIS),Scheduled,09:15,Departures,8,09:15,Casablanca Mohamed V (CMN),2023-01-11
+TAP Air Portugal,TP1452,Lisbon (LIS),Scheduled,09:25,Departures,8,09:25,Marrakech (RAK),2023-01-11
+Azores Airlines,S48375,Lisbon (LIS),Scheduled,09:25,Departures,8,09:25,Marrakech (RAK),2023-01-11
+TAP Air Portugal,TP1827,Lisbon (LIS),Scheduled,09:25,Departures,8,09:25,Terceira Island (TER),2023-01-11
+Azul,AD7453,Lisbon (LIS),Scheduled,09:25,Departures,8,09:25,Terceira Island (TER),2023-01-11
+Azores Airlines,S48827,Lisbon (LIS),Scheduled,09:25,Departures,8,09:25,Terceira Island (TER),2023-01-11
+Ryanair,FR3961,Lisbon (LIS),Scheduled,09:30,Departures,8,09:30,Bergamo (BGY),2023-01-11
+TAP Air Portugal,TP1527,Lisbon (LIS),Scheduled,09:35,Departures,8,09:35,Accra (ACC),2023-01-11
+Transavia,HV7641,Lisbon (LIS),Scheduled,09:40,Departures,8,09:40,Orly (ORY),2023-01-11
+TAP Air Portugal,TP1907,Lisbon (LIS),Scheduled,09:45,Departures,8,09:45,Faro (FAO),2023-01-11
+Azul,AD7300,Lisbon (LIS),Scheduled,09:45,Departures,8,09:45,Faro (FAO),2023-01-11
+Emirates,EK4790,Lisbon (LIS),Scheduled,09:45,Departures,8,09:45,Faro (FAO),2023-01-11
+Beijing Capital Airlines,JD5408,Lisbon (LIS),Scheduled,09:45,Departures,8,09:45,Faro (FAO),2023-01-11
+Luxair,LG1979,Lisbon (LIS),Scheduled,09:45,Departures,8,09:45,Faro (FAO),2023-01-11
+Lufthansa,LH6966,Lisbon (LIS),Scheduled,09:45,Departures,8,09:45,Faro (FAO),2023-01-11
+Azores Airlines,S48421,Lisbon (LIS),Scheduled,09:45,Departures,8,09:45,Faro (FAO),2023-01-11
+United Airlines,UA6874,Lisbon (LIS),Scheduled,09:45,Departures,8,09:45,Faro (FAO),2023-01-11
+Ryanair,FR1990,Lisbon (LIS),Scheduled,09:50,Departures,8,09:50,Stansted (STN),2023-01-11
+TAP Air Portugal,TP1352,Lisbon (LIS),Scheduled,09:50,Departures,8,09:50,Heathrow (LHR),2023-01-11
+Aegean Airlines,A31734,Lisbon (LIS),Scheduled,09:50,Departures,8,09:50,Heathrow (LHR),2023-01-11
+Air Canada,AC2709,Lisbon (LIS),Scheduled,09:50,Departures,8,09:50,Heathrow (LHR),2023-01-11
+Azul,AD7327,Lisbon (LIS),Scheduled,09:50,Departures,8,09:50,Heathrow (LHR),2023-01-11
+Air India,AI7912,Lisbon (LIS),Scheduled,09:50,Departures,8,09:50,Heathrow (LHR),2023-01-11
+Ethiopian Airlines,ET1737,Lisbon (LIS),Scheduled,09:50,Departures,8,09:50,Heathrow (LHR),2023-01-11
+El Al,LY9056,Lisbon (LIS),Scheduled,09:50,Departures,8,09:50,Heathrow (LHR),2023-01-11
+Azores Airlines,S48616,Lisbon (LIS),Scheduled,09:50,Departures,8,09:50,Heathrow (LHR),2023-01-11
+United Airlines,UA6865,Lisbon (LIS),Scheduled,09:50,Departures,8,09:50,Heathrow (LHR),2023-01-11
+TAP Air Portugal,TP103,Lisbon (LIS),Scheduled,09:55,Departures,8,09:55,Belo Horizonte Tancredo Neves (CNF),2023-01-11
+Azul,AD7255,Lisbon (LIS),Scheduled,09:55,Departures,8,09:55,Belo Horizonte Tancredo Neves (CNF),2023-01-11
+Emirates,EK4804,Lisbon (LIS),Scheduled,09:55,Departures,8,09:55,Belo Horizonte Tancredo Neves (CNF),2023-01-11
+TAP Air Portugal,TP1479,Lisbon (LIS),Scheduled,09:55,Departures,8,09:55,Bissau (OXB),2023-01-11
+Azul,AD8751,Lisbon (LIS),Scheduled,10:00,Departures,8,10:00,Campinas Viracopos (VCP),2023-01-11
+TAP Air Portugal,TP5001,Lisbon (LIS),Scheduled,10:00,Departures,8,10:00,Campinas Viracopos (VCP),2023-01-11
+Delta Air Lines,DL273,Lisbon (LIS),Scheduled,10:00,Departures,8,10:00,New York JFK (JFK),2023-01-11
+Air France,AF3564,Lisbon (LIS),Scheduled,10:00,Departures,8,10:00,New York JFK (JFK),2023-01-11
+KLM,KL6098,Lisbon (LIS),Scheduled,10:00,Departures,8,10:00,New York JFK (JFK),2023-01-11
+Virgin Atlantic,VS3898,Lisbon (LIS),Scheduled,10:00,Departures,8,10:00,New York JFK (JFK),2023-01-11
+TAP Air Portugal,TP1924,Lisbon (LIS),Scheduled,10:00,Departures,8,10:00,Porto (OPO),2023-01-11
+Azul,AD7490,Lisbon (LIS),Scheduled,10:00,Departures,8,10:00,Porto (OPO),2023-01-11
+Lufthansa,LH6944,Lisbon (LIS),Scheduled,10:00,Departures,8,10:00,Porto (OPO),2023-01-11
+Azores Airlines,S48424,Lisbon (LIS),Scheduled,10:00,Departures,8,10:00,Porto (OPO),2023-01-11
+United Airlines,UA6895,Lisbon (LIS),Scheduled,10:00,Departures,8,10:00,Porto (OPO),2023-01-11
+Ryanair,FR5333,Lisbon (LIS),Scheduled,10:05,Departures,8,10:05,Dublin (DUB),2023-01-11
+TAP Air Portugal,TP223,Lisbon (LIS),Scheduled,10:15,Departures,8,10:15,Miami (MIA),2023-01-11
+United Airlines,UA65,Lisbon (LIS),Scheduled,10:15,Departures,8,10:15,Newark (EWR),2023-01-11
+Air Canada,AC5857,Lisbon (LIS),Scheduled,10:15,Departures,8,10:15,Newark (EWR),2023-01-11
+Lufthansa,LH7967,Lisbon (LIS),Scheduled,10:15,Departures,8,10:15,Newark (EWR),2023-01-11
+Brussels Airlines,SN9026,Lisbon (LIS),Scheduled,10:15,Departures,8,10:15,Newark (EWR),2023-01-11
+British Airways,BA501,Lisbon (LIS),Scheduled,10:45,Departures,8,10:45,Heathrow (LHR),2023-01-11
+American Airlines,AA6575,Lisbon (LIS),Scheduled,10:45,Departures,8,10:45,Heathrow (LHR),2023-01-11
+Finnair,AY5981,Lisbon (LIS),Scheduled,10:45,Departures,8,10:45,Heathrow (LHR),2023-01-11
+Cathay Pacific,CX7216,Lisbon (LIS),Scheduled,10:45,Departures,8,10:45,Heathrow (LHR),2023-01-11
+Qatar Airways,QR5916,Lisbon (LIS),Scheduled,10:45,Departures,8,10:45,Heathrow (LHR),2023-01-11
